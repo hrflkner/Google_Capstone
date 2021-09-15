@@ -1,0 +1,3565 @@
+borough,year,month,no_crimes
+Barking and Dagenham,2008,1,1615
+Barking and Dagenham,2008,2,1580
+Barking and Dagenham,2008,3,1417
+Barking and Dagenham,2008,4,1522
+Barking and Dagenham,2008,5,1460
+Barking and Dagenham,2008,6,1489
+Barking and Dagenham,2008,7,1603
+Barking and Dagenham,2008,8,1495
+Barking and Dagenham,2008,9,1245
+Barking and Dagenham,2008,10,1440
+Barking and Dagenham,2008,11,1425
+Barking and Dagenham,2008,12,1365
+Barking and Dagenham,2009,1,1493
+Barking and Dagenham,2009,2,1495
+Barking and Dagenham,2009,3,1712
+Barking and Dagenham,2009,4,1531
+Barking and Dagenham,2009,5,1551
+Barking and Dagenham,2009,6,1456
+Barking and Dagenham,2009,7,1519
+Barking and Dagenham,2009,8,1454
+Barking and Dagenham,2009,9,1454
+Barking and Dagenham,2009,10,1433
+Barking and Dagenham,2009,11,1350
+Barking and Dagenham,2009,12,1265
+Barking and Dagenham,2010,1,1417
+Barking and Dagenham,2010,2,1354
+Barking and Dagenham,2010,3,1556
+Barking and Dagenham,2010,4,1452
+Barking and Dagenham,2010,5,1473
+Barking and Dagenham,2010,6,1516
+Barking and Dagenham,2010,7,1545
+Barking and Dagenham,2010,8,1472
+Barking and Dagenham,2010,9,1395
+Barking and Dagenham,2010,10,1432
+Barking and Dagenham,2010,11,1446
+Barking and Dagenham,2010,12,1072
+Barking and Dagenham,2011,1,1314
+Barking and Dagenham,2011,2,1294
+Barking and Dagenham,2011,3,1432
+Barking and Dagenham,2011,4,1457
+Barking and Dagenham,2011,5,1483
+Barking and Dagenham,2011,6,1409
+Barking and Dagenham,2011,7,1416
+Barking and Dagenham,2011,8,1490
+Barking and Dagenham,2011,9,1315
+Barking and Dagenham,2011,10,1324
+Barking and Dagenham,2011,11,1405
+Barking and Dagenham,2011,12,1347
+Barking and Dagenham,2012,1,1437
+Barking and Dagenham,2012,2,1307
+Barking and Dagenham,2012,3,1557
+Barking and Dagenham,2012,4,1264
+Barking and Dagenham,2012,5,1371
+Barking and Dagenham,2012,6,1298
+Barking and Dagenham,2012,7,1342
+Barking and Dagenham,2012,8,1269
+Barking and Dagenham,2012,9,1194
+Barking and Dagenham,2012,10,1299
+Barking and Dagenham,2012,11,1392
+Barking and Dagenham,2012,12,1260
+Barking and Dagenham,2013,1,1453
+Barking and Dagenham,2013,2,1423
+Barking and Dagenham,2013,3,1397
+Barking and Dagenham,2013,4,1297
+Barking and Dagenham,2013,5,1297
+Barking and Dagenham,2013,6,1203
+Barking and Dagenham,2013,7,1414
+Barking and Dagenham,2013,8,1215
+Barking and Dagenham,2013,9,1207
+Barking and Dagenham,2013,10,1327
+Barking and Dagenham,2013,11,1367
+Barking and Dagenham,2013,12,1159
+Barking and Dagenham,2014,1,1254
+Barking and Dagenham,2014,2,1204
+Barking and Dagenham,2014,3,1418
+Barking and Dagenham,2014,4,1183
+Barking and Dagenham,2014,5,1218
+Barking and Dagenham,2014,6,1269
+Barking and Dagenham,2014,7,1338
+Barking and Dagenham,2014,8,1236
+Barking and Dagenham,2014,9,1335
+Barking and Dagenham,2014,10,1296
+Barking and Dagenham,2014,11,1434
+Barking and Dagenham,2014,12,1241
+Barking and Dagenham,2015,1,1251
+Barking and Dagenham,2015,2,1165
+Barking and Dagenham,2015,3,1471
+Barking and Dagenham,2015,4,1278
+Barking and Dagenham,2015,5,1436
+Barking and Dagenham,2015,6,1362
+Barking and Dagenham,2015,7,1494
+Barking and Dagenham,2015,8,1338
+Barking and Dagenham,2015,9,1375
+Barking and Dagenham,2015,10,1329
+Barking and Dagenham,2015,11,1437
+Barking and Dagenham,2015,12,1410
+Barking and Dagenham,2016,1,1376
+Barking and Dagenham,2016,2,1371
+Barking and Dagenham,2016,3,1491
+Barking and Dagenham,2016,4,1339
+Barking and Dagenham,2016,5,1555
+Barking and Dagenham,2016,6,1449
+Barking and Dagenham,2016,7,1534
+Barking and Dagenham,2016,8,1346
+Barking and Dagenham,2016,9,1363
+Barking and Dagenham,2016,10,1323
+Barking and Dagenham,2016,11,1316
+Barking and Dagenham,2016,12,1278
+Barnet,2008,1,2134
+Barnet,2008,2,1861
+Barnet,2008,3,1992
+Barnet,2008,4,1999
+Barnet,2008,5,2144
+Barnet,2008,6,1975
+Barnet,2008,7,2029
+Barnet,2008,8,1822
+Barnet,2008,9,1840
+Barnet,2008,10,2065
+Barnet,2008,11,2050
+Barnet,2008,12,2033
+Barnet,2009,1,2025
+Barnet,2009,2,1673
+Barnet,2009,3,2009
+Barnet,2009,4,1873
+Barnet,2009,5,2043
+Barnet,2009,6,2026
+Barnet,2009,7,2074
+Barnet,2009,8,1875
+Barnet,2009,9,1913
+Barnet,2009,10,2047
+Barnet,2009,11,2076
+Barnet,2009,12,1815
+Barnet,2010,1,1867
+Barnet,2010,2,1983
+Barnet,2010,3,2046
+Barnet,2010,4,1894
+Barnet,2010,5,1911
+Barnet,2010,6,2076
+Barnet,2010,7,2010
+Barnet,2010,8,1881
+Barnet,2010,9,1964
+Barnet,2010,10,2061
+Barnet,2010,11,1961
+Barnet,2010,12,1762
+Barnet,2011,1,1995
+Barnet,2011,2,1876
+Barnet,2011,3,2103
+Barnet,2011,4,2060
+Barnet,2011,5,2076
+Barnet,2011,6,2134
+Barnet,2011,7,2151
+Barnet,2011,8,1869
+Barnet,2011,9,1814
+Barnet,2011,10,1955
+Barnet,2011,11,2051
+Barnet,2011,12,1923
+Barnet,2012,1,1852
+Barnet,2012,2,1884
+Barnet,2012,3,2234
+Barnet,2012,4,1932
+Barnet,2012,5,1966
+Barnet,2012,6,1993
+Barnet,2012,7,1990
+Barnet,2012,8,1784
+Barnet,2012,9,1751
+Barnet,2012,10,2020
+Barnet,2012,11,2264
+Barnet,2012,12,1903
+Barnet,2013,1,1918
+Barnet,2013,2,1877
+Barnet,2013,3,2050
+Barnet,2013,4,1781
+Barnet,2013,5,1834
+Barnet,2013,6,1813
+Barnet,2013,7,1925
+Barnet,2013,8,1674
+Barnet,2013,9,1761
+Barnet,2013,10,1965
+Barnet,2013,11,1987
+Barnet,2013,12,1925
+Barnet,2014,1,1814
+Barnet,2014,2,1758
+Barnet,2014,3,1970
+Barnet,2014,4,1890
+Barnet,2014,5,1934
+Barnet,2014,6,1725
+Barnet,2014,7,1929
+Barnet,2014,8,1854
+Barnet,2014,9,1823
+Barnet,2014,10,2013
+Barnet,2014,11,1958
+Barnet,2014,12,1904
+Barnet,2015,1,1963
+Barnet,2015,2,1822
+Barnet,2015,3,1937
+Barnet,2015,4,1886
+Barnet,2015,5,1932
+Barnet,2015,6,2056
+Barnet,2015,7,2127
+Barnet,2015,8,1973
+Barnet,2015,9,1926
+Barnet,2015,10,2198
+Barnet,2015,11,2144
+Barnet,2015,12,2072
+Barnet,2016,1,1982
+Barnet,2016,2,1925
+Barnet,2016,3,2106
+Barnet,2016,4,2106
+Barnet,2016,5,2159
+Barnet,2016,6,2110
+Barnet,2016,7,2062
+Barnet,2016,8,2043
+Barnet,2016,9,2110
+Barnet,2016,10,2074
+Barnet,2016,11,2032
+Barnet,2016,12,1975
+Bexley,2008,1,1346
+Bexley,2008,2,1296
+Bexley,2008,3,1342
+Bexley,2008,4,1240
+Bexley,2008,5,1280
+Bexley,2008,6,1189
+Bexley,2008,7,1259
+Bexley,2008,8,1279
+Bexley,2008,9,1182
+Bexley,2008,10,1292
+Bexley,2008,11,1373
+Bexley,2008,12,1227
+Bexley,2009,1,1205
+Bexley,2009,2,1138
+Bexley,2009,3,1322
+Bexley,2009,4,1207
+Bexley,2009,5,1307
+Bexley,2009,6,1241
+Bexley,2009,7,1289
+Bexley,2009,8,1143
+Bexley,2009,9,1170
+Bexley,2009,10,1202
+Bexley,2009,11,1173
+Bexley,2009,12,1048
+Bexley,2010,1,1075
+Bexley,2010,2,1077
+Bexley,2010,3,1232
+Bexley,2010,4,1118
+Bexley,2010,5,1174
+Bexley,2010,6,1141
+Bexley,2010,7,1090
+Bexley,2010,8,1112
+Bexley,2010,9,1014
+Bexley,2010,10,1088
+Bexley,2010,11,1172
+Bexley,2010,12,873
+Bexley,2011,1,996
+Bexley,2011,2,892
+Bexley,2011,3,1040
+Bexley,2011,4,923
+Bexley,2011,5,1102
+Bexley,2011,6,922
+Bexley,2011,7,997
+Bexley,2011,8,939
+Bexley,2011,9,853
+Bexley,2011,10,866
+Bexley,2011,11,966
+Bexley,2011,12,829
+Bexley,2012,1,921
+Bexley,2012,2,886
+Bexley,2012,3,1076
+Bexley,2012,4,938
+Bexley,2012,5,1103
+Bexley,2012,6,983
+Bexley,2012,7,1005
+Bexley,2012,8,898
+Bexley,2012,9,931
+Bexley,2012,10,1029
+Bexley,2012,11,947
+Bexley,2012,12,952
+Bexley,2013,1,956
+Bexley,2013,2,964
+Bexley,2013,3,942
+Bexley,2013,4,914
+Bexley,2013,5,959
+Bexley,2013,6,909
+Bexley,2013,7,969
+Bexley,2013,8,914
+Bexley,2013,9,906
+Bexley,2013,10,966
+Bexley,2013,11,1050
+Bexley,2013,12,1103
+Bexley,2014,1,926
+Bexley,2014,2,836
+Bexley,2014,3,1075
+Bexley,2014,4,1026
+Bexley,2014,5,917
+Bexley,2014,6,1026
+Bexley,2014,7,1113
+Bexley,2014,8,938
+Bexley,2014,9,925
+Bexley,2014,10,1030
+Bexley,2014,11,1016
+Bexley,2014,12,1016
+Bexley,2015,1,1031
+Bexley,2015,2,851
+Bexley,2015,3,1039
+Bexley,2015,4,898
+Bexley,2015,5,1063
+Bexley,2015,6,1033
+Bexley,2015,7,990
+Bexley,2015,8,846
+Bexley,2015,9,966
+Bexley,2015,10,1162
+Bexley,2015,11,1080
+Bexley,2015,12,1031
+Bexley,2016,1,1120
+Bexley,2016,2,1019
+Bexley,2016,3,1065
+Bexley,2016,4,915
+Bexley,2016,5,998
+Bexley,2016,6,1048
+Bexley,2016,7,1093
+Bexley,2016,8,994
+Bexley,2016,9,1106
+Bexley,2016,10,1148
+Bexley,2016,11,1152
+Bexley,2016,12,1182
+Brent,2008,1,2136
+Brent,2008,2,1895
+Brent,2008,3,1946
+Brent,2008,4,1797
+Brent,2008,5,2026
+Brent,2008,6,1917
+Brent,2008,7,1986
+Brent,2008,8,1864
+Brent,2008,9,1883
+Brent,2008,10,2115
+Brent,2008,11,2107
+Brent,2008,12,1832
+Brent,2009,1,1986
+Brent,2009,2,1839
+Brent,2009,3,2164
+Brent,2009,4,1915
+Brent,2009,5,2106
+Brent,2009,6,2184
+Brent,2009,7,2212
+Brent,2009,8,1976
+Brent,2009,9,1923
+Brent,2009,10,2220
+Brent,2009,11,2243
+Brent,2009,12,1980
+Brent,2010,1,1859
+Brent,2010,2,1877
+Brent,2010,3,2326
+Brent,2010,4,2176
+Brent,2010,5,2217
+Brent,2010,6,2142
+Brent,2010,7,2380
+Brent,2010,8,2183
+Brent,2010,9,2074
+Brent,2010,10,2163
+Brent,2010,11,2242
+Brent,2010,12,1873
+Brent,2011,1,2142
+Brent,2011,2,2088
+Brent,2011,3,2119
+Brent,2011,4,2257
+Brent,2011,5,2431
+Brent,2011,6,2388
+Brent,2011,7,2443
+Brent,2011,8,2114
+Brent,2011,9,2241
+Brent,2011,10,2625
+Brent,2011,11,2486
+Brent,2011,12,2335
+Brent,2012,1,2488
+Brent,2012,2,2190
+Brent,2012,3,2424
+Brent,2012,4,2071
+Brent,2012,5,2257
+Brent,2012,6,2134
+Brent,2012,7,2219
+Brent,2012,8,2282
+Brent,2012,9,1892
+Brent,2012,10,2123
+Brent,2012,11,2234
+Brent,2012,12,2043
+Brent,2013,1,2019
+Brent,2013,2,1941
+Brent,2013,3,2053
+Brent,2013,4,1801
+Brent,2013,5,2010
+Brent,2013,6,1982
+Brent,2013,7,2032
+Brent,2013,8,1907
+Brent,2013,9,1907
+Brent,2013,10,2057
+Brent,2013,11,2135
+Brent,2013,12,1915
+Brent,2014,1,2055
+Brent,2014,2,1813
+Brent,2014,3,2054
+Brent,2014,4,1959
+Brent,2014,5,2130
+Brent,2014,6,2185
+Brent,2014,7,2140
+Brent,2014,8,1933
+Brent,2014,9,2039
+Brent,2014,10,2184
+Brent,2014,11,2034
+Brent,2014,12,1900
+Brent,2015,1,1935
+Brent,2015,2,1835
+Brent,2015,3,2084
+Brent,2015,4,1934
+Brent,2015,5,2135
+Brent,2015,6,2094
+Brent,2015,7,2001
+Brent,2015,8,1950
+Brent,2015,9,2040
+Brent,2015,10,2336
+Brent,2015,11,2394
+Brent,2015,12,2145
+Brent,2016,1,2124
+Brent,2016,2,2057
+Brent,2016,3,2126
+Brent,2016,4,2116
+Brent,2016,5,2406
+Brent,2016,6,2316
+Brent,2016,7,2285
+Brent,2016,8,2269
+Brent,2016,9,2185
+Brent,2016,10,2366
+Brent,2016,11,2158
+Brent,2016,12,2285
+Bromley,2008,1,2097
+Bromley,2008,2,1988
+Bromley,2008,3,1923
+Bromley,2008,4,1869
+Bromley,2008,5,2027
+Bromley,2008,6,1911
+Bromley,2008,7,2109
+Bromley,2008,8,1936
+Bromley,2008,9,1869
+Bromley,2008,10,2090
+Bromley,2008,11,2101
+Bromley,2008,12,2095
+Bromley,2009,1,2076
+Bromley,2009,2,1760
+Bromley,2009,3,1945
+Bromley,2009,4,1750
+Bromley,2009,5,2147
+Bromley,2009,6,1888
+Bromley,2009,7,2019
+Bromley,2009,8,1656
+Bromley,2009,9,1643
+Bromley,2009,10,1720
+Bromley,2009,11,1656
+Bromley,2009,12,1598
+Bromley,2010,1,1578
+Bromley,2010,2,1546
+Bromley,2010,3,1790
+Bromley,2010,4,1699
+Bromley,2010,5,1731
+Bromley,2010,6,1683
+Bromley,2010,7,1638
+Bromley,2010,8,1558
+Bromley,2010,9,1493
+Bromley,2010,10,1708
+Bromley,2010,11,1668
+Bromley,2010,12,1480
+Bromley,2011,1,1682
+Bromley,2011,2,1517
+Bromley,2011,3,1726
+Bromley,2011,4,1589
+Bromley,2011,5,1648
+Bromley,2011,6,1650
+Bromley,2011,7,1655
+Bromley,2011,8,1655
+Bromley,2011,9,1611
+Bromley,2011,10,1640
+Bromley,2011,11,1707
+Bromley,2011,12,1788
+Bromley,2012,1,1731
+Bromley,2012,2,1606
+Bromley,2012,3,1755
+Bromley,2012,4,1436
+Bromley,2012,5,1637
+Bromley,2012,6,1578
+Bromley,2012,7,1731
+Bromley,2012,8,1611
+Bromley,2012,9,1582
+Bromley,2012,10,1671
+Bromley,2012,11,1740
+Bromley,2012,12,1544
+Bromley,2013,1,1599
+Bromley,2013,2,1529
+Bromley,2013,3,1630
+Bromley,2013,4,1615
+Bromley,2013,5,1509
+Bromley,2013,6,1402
+Bromley,2013,7,1653
+Bromley,2013,8,1457
+Bromley,2013,9,1519
+Bromley,2013,10,1718
+Bromley,2013,11,1688
+Bromley,2013,12,1626
+Bromley,2014,1,1628
+Bromley,2014,2,1514
+Bromley,2014,3,1640
+Bromley,2014,4,1542
+Bromley,2014,5,1618
+Bromley,2014,6,1646
+Bromley,2014,7,1802
+Bromley,2014,8,1586
+Bromley,2014,9,1572
+Bromley,2014,10,1708
+Bromley,2014,11,1718
+Bromley,2014,12,1694
+Bromley,2015,1,1687
+Bromley,2015,2,1577
+Bromley,2015,3,1739
+Bromley,2015,4,1684
+Bromley,2015,5,1760
+Bromley,2015,6,1794
+Bromley,2015,7,1777
+Bromley,2015,8,1707
+Bromley,2015,9,1732
+Bromley,2015,10,1744
+Bromley,2015,11,1716
+Bromley,2015,12,1720
+Bromley,2016,1,1692
+Bromley,2016,2,1647
+Bromley,2016,3,1695
+Bromley,2016,4,1530
+Bromley,2016,5,1708
+Bromley,2016,6,1607
+Bromley,2016,7,1780
+Bromley,2016,8,1537
+Bromley,2016,9,1595
+Bromley,2016,10,1758
+Bromley,2016,11,1755
+Bromley,2016,12,1860
+Camden,2008,1,2610
+Camden,2008,2,2608
+Camden,2008,3,2720
+Camden,2008,4,2532
+Camden,2008,5,2680
+Camden,2008,6,2795
+Camden,2008,7,2907
+Camden,2008,8,2520
+Camden,2008,9,2519
+Camden,2008,10,2848
+Camden,2008,11,2774
+Camden,2008,12,2497
+Camden,2009,1,2579
+Camden,2009,2,2405
+Camden,2009,3,2848
+Camden,2009,4,2515
+Camden,2009,5,2679
+Camden,2009,6,2697
+Camden,2009,7,2913
+Camden,2009,8,2454
+Camden,2009,9,2434
+Camden,2009,10,2898
+Camden,2009,11,2784
+Camden,2009,12,2406
+Camden,2010,1,2441
+Camden,2010,2,2488
+Camden,2010,3,2796
+Camden,2010,4,2702
+Camden,2010,5,2874
+Camden,2010,6,2599
+Camden,2010,7,2610
+Camden,2010,8,2529
+Camden,2010,9,2553
+Camden,2010,10,2806
+Camden,2010,11,2981
+Camden,2010,12,2425
+Camden,2011,1,2542
+Camden,2011,2,2434
+Camden,2011,3,3196
+Camden,2011,4,2803
+Camden,2011,5,3054
+Camden,2011,6,3099
+Camden,2011,7,3027
+Camden,2011,8,2621
+Camden,2011,9,2658
+Camden,2011,10,2911
+Camden,2011,11,2981
+Camden,2011,12,2630
+Camden,2012,1,2617
+Camden,2012,2,2401
+Camden,2012,3,2918
+Camden,2012,4,2598
+Camden,2012,5,2970
+Camden,2012,6,2645
+Camden,2012,7,2855
+Camden,2012,8,2513
+Camden,2012,9,2264
+Camden,2012,10,2563
+Camden,2012,11,2588
+Camden,2012,12,2540
+Camden,2013,1,2535
+Camden,2013,2,2320
+Camden,2013,3,2372
+Camden,2013,4,2356
+Camden,2013,5,2444
+Camden,2013,6,2506
+Camden,2013,7,2533
+Camden,2013,8,2483
+Camden,2013,9,2271
+Camden,2013,10,2498
+Camden,2013,11,2096
+Camden,2013,12,2021
+Camden,2014,1,2244
+Camden,2014,2,2075
+Camden,2014,3,2358
+Camden,2014,4,2111
+Camden,2014,5,2263
+Camden,2014,6,2242
+Camden,2014,7,2211
+Camden,2014,8,2053
+Camden,2014,9,2239
+Camden,2014,10,2481
+Camden,2014,11,2495
+Camden,2014,12,2426
+Camden,2015,1,2385
+Camden,2015,2,2238
+Camden,2015,3,2529
+Camden,2015,4,2434
+Camden,2015,5,2716
+Camden,2015,6,2566
+Camden,2015,7,2492
+Camden,2015,8,2251
+Camden,2015,9,2368
+Camden,2015,10,2578
+Camden,2015,11,2521
+Camden,2015,12,2399
+Camden,2016,1,2335
+Camden,2016,2,2363
+Camden,2016,3,2290
+Camden,2016,4,2254
+Camden,2016,5,2501
+Camden,2016,6,2365
+Camden,2016,7,2585
+Camden,2016,8,2476
+Camden,2016,9,2425
+Camden,2016,10,2542
+Camden,2016,11,2419
+Camden,2016,12,2628
+City of London,2008,1,0
+City of London,2008,2,0
+City of London,2008,3,0
+City of London,2008,4,0
+City of London,2008,5,0
+City of London,2008,6,0
+City of London,2008,7,0
+City of London,2008,8,0
+City of London,2008,9,0
+City of London,2008,10,0
+City of London,2008,11,0
+City of London,2008,12,0
+City of London,2009,1,0
+City of London,2009,2,0
+City of London,2009,3,0
+City of London,2009,4,0
+City of London,2009,5,0
+City of London,2009,6,0
+City of London,2009,7,0
+City of London,2009,8,0
+City of London,2009,9,0
+City of London,2009,10,0
+City of London,2009,11,0
+City of London,2009,12,0
+City of London,2010,1,0
+City of London,2010,2,0
+City of London,2010,3,0
+City of London,2010,4,0
+City of London,2010,5,0
+City of London,2010,6,0
+City of London,2010,7,0
+City of London,2010,8,0
+City of London,2010,9,0
+City of London,2010,10,0
+City of London,2010,11,0
+City of London,2010,12,0
+City of London,2011,1,0
+City of London,2011,2,0
+City of London,2011,3,0
+City of London,2011,4,0
+City of London,2011,5,0
+City of London,2011,6,0
+City of London,2011,7,0
+City of London,2011,8,0
+City of London,2011,9,17
+City of London,2011,10,17
+City of London,2011,11,21
+City of London,2011,12,14
+City of London,2012,1,18
+City of London,2012,2,23
+City of London,2012,3,16
+City of London,2012,4,8
+City of London,2012,5,9
+City of London,2012,6,15
+City of London,2012,7,10
+City of London,2012,8,13
+City of London,2012,9,14
+City of London,2012,10,11
+City of London,2012,11,13
+City of London,2012,12,7
+City of London,2013,1,10
+City of London,2013,2,7
+City of London,2013,3,7
+City of London,2013,4,7
+City of London,2013,5,10
+City of London,2013,6,12
+City of London,2013,7,8
+City of London,2013,8,18
+City of London,2013,9,13
+City of London,2013,10,7
+City of London,2013,11,3
+City of London,2013,12,8
+City of London,2014,1,11
+City of London,2014,2,7
+City of London,2014,3,4
+City of London,2014,4,8
+City of London,2014,5,13
+City of London,2014,6,4
+City of London,2014,7,6
+City of London,2014,8,9
+City of London,2014,9,11
+City of London,2014,10,9
+City of London,2014,11,14
+City of London,2014,12,19
+City of London,2015,1,9
+City of London,2015,2,9
+City of London,2015,3,10
+City of London,2015,4,15
+City of London,2015,5,20
+City of London,2015,6,13
+City of London,2015,7,16
+City of London,2015,8,16
+City of London,2015,9,16
+City of London,2015,10,9
+City of London,2015,11,11
+City of London,2015,12,7
+City of London,2016,1,10
+City of London,2016,2,10
+City of London,2016,3,12
+City of London,2016,4,15
+City of London,2016,5,9
+City of London,2016,6,8
+City of London,2016,7,13
+City of London,2016,8,19
+City of London,2016,9,19
+City of London,2016,10,17
+City of London,2016,11,12
+City of London,2016,12,34
+Croydon,2008,1,2623
+Croydon,2008,2,2390
+Croydon,2008,3,2394
+Croydon,2008,4,2207
+Croydon,2008,5,2501
+Croydon,2008,6,2502
+Croydon,2008,7,2544
+Croydon,2008,8,2421
+Croydon,2008,9,2486
+Croydon,2008,10,2518
+Croydon,2008,11,2478
+Croydon,2008,12,2452
+Croydon,2009,1,2410
+Croydon,2009,2,2307
+Croydon,2009,3,2620
+Croydon,2009,4,2574
+Croydon,2009,5,2542
+Croydon,2009,6,2587
+Croydon,2009,7,2541
+Croydon,2009,8,2424
+Croydon,2009,9,2377
+Croydon,2009,10,2423
+Croydon,2009,11,2617
+Croydon,2009,12,2362
+Croydon,2010,1,2393
+Croydon,2010,2,2340
+Croydon,2010,3,2620
+Croydon,2010,4,2452
+Croydon,2010,5,2448
+Croydon,2010,6,2617
+Croydon,2010,7,2427
+Croydon,2010,8,2372
+Croydon,2010,9,2503
+Croydon,2010,10,2455
+Croydon,2010,11,2554
+Croydon,2010,12,2192
+Croydon,2011,1,2511
+Croydon,2011,2,2307
+Croydon,2011,3,2530
+Croydon,2011,4,2467
+Croydon,2011,5,2537
+Croydon,2011,6,2541
+Croydon,2011,7,2688
+Croydon,2011,8,2698
+Croydon,2011,9,2356
+Croydon,2011,10,2532
+Croydon,2011,11,2505
+Croydon,2011,12,2158
+Croydon,2012,1,2970
+Croydon,2012,2,2240
+Croydon,2012,3,2613
+Croydon,2012,4,2402
+Croydon,2012,5,2621
+Croydon,2012,6,2494
+Croydon,2012,7,2506
+Croydon,2012,8,2414
+Croydon,2012,9,2373
+Croydon,2012,10,2510
+Croydon,2012,11,2675
+Croydon,2012,12,2371
+Croydon,2013,1,2263
+Croydon,2013,2,2184
+Croydon,2013,3,2309
+Croydon,2013,4,2173
+Croydon,2013,5,2267
+Croydon,2013,6,2336
+Croydon,2013,7,2537
+Croydon,2013,8,2310
+Croydon,2013,9,2198
+Croydon,2013,10,2434
+Croydon,2013,11,2273
+Croydon,2013,12,2160
+Croydon,2014,1,2404
+Croydon,2014,2,1963
+Croydon,2014,3,2236
+Croydon,2014,4,2042
+Croydon,2014,5,2156
+Croydon,2014,6,2280
+Croydon,2014,7,2342
+Croydon,2014,8,2229
+Croydon,2014,9,2311
+Croydon,2014,10,2473
+Croydon,2014,11,2449
+Croydon,2014,12,2472
+Croydon,2015,1,2376
+Croydon,2015,2,2101
+Croydon,2015,3,2494
+Croydon,2015,4,2303
+Croydon,2015,5,2506
+Croydon,2015,6,2553
+Croydon,2015,7,2376
+Croydon,2015,8,2232
+Croydon,2015,9,2195
+Croydon,2015,10,2270
+Croydon,2015,11,2451
+Croydon,2015,12,2232
+Croydon,2016,1,2248
+Croydon,2016,2,2154
+Croydon,2016,3,2199
+Croydon,2016,4,2334
+Croydon,2016,5,2591
+Croydon,2016,6,2466
+Croydon,2016,7,2668
+Croydon,2016,8,2523
+Croydon,2016,9,2456
+Croydon,2016,10,2398
+Croydon,2016,11,2288
+Croydon,2016,12,2387
+Ealing,2008,1,2724
+Ealing,2008,2,2679
+Ealing,2008,3,2345
+Ealing,2008,4,2266
+Ealing,2008,5,2457
+Ealing,2008,6,2352
+Ealing,2008,7,2508
+Ealing,2008,8,2253
+Ealing,2008,9,2247
+Ealing,2008,10,2621
+Ealing,2008,11,2383
+Ealing,2008,12,2112
+Ealing,2009,1,2296
+Ealing,2009,2,2229
+Ealing,2009,3,2535
+Ealing,2009,4,2308
+Ealing,2009,5,2473
+Ealing,2009,6,2443
+Ealing,2009,7,2480
+Ealing,2009,8,2484
+Ealing,2009,9,2430
+Ealing,2009,10,2479
+Ealing,2009,11,2313
+Ealing,2009,12,2147
+Ealing,2010,1,2229
+Ealing,2010,2,2399
+Ealing,2010,3,2746
+Ealing,2010,4,2630
+Ealing,2010,5,2894
+Ealing,2010,6,2816
+Ealing,2010,7,2996
+Ealing,2010,8,2585
+Ealing,2010,9,2546
+Ealing,2010,10,2653
+Ealing,2010,11,2683
+Ealing,2010,12,2183
+Ealing,2011,1,2274
+Ealing,2011,2,2364
+Ealing,2011,3,2616
+Ealing,2011,4,2601
+Ealing,2011,5,2701
+Ealing,2011,6,2561
+Ealing,2011,7,2539
+Ealing,2011,8,2538
+Ealing,2011,9,2158
+Ealing,2011,10,2480
+Ealing,2011,11,2428
+Ealing,2011,12,2277
+Ealing,2012,1,2531
+Ealing,2012,2,2171
+Ealing,2012,3,2613
+Ealing,2012,4,2212
+Ealing,2012,5,2539
+Ealing,2012,6,2420
+Ealing,2012,7,2547
+Ealing,2012,8,2398
+Ealing,2012,9,2261
+Ealing,2012,10,2396
+Ealing,2012,11,2518
+Ealing,2012,12,2226
+Ealing,2013,1,2217
+Ealing,2013,2,2231
+Ealing,2013,3,2159
+Ealing,2013,4,2156
+Ealing,2013,5,2143
+Ealing,2013,6,2191
+Ealing,2013,7,2361
+Ealing,2013,8,2061
+Ealing,2013,9,2037
+Ealing,2013,10,2192
+Ealing,2013,11,2185
+Ealing,2013,12,1984
+Ealing,2014,1,1936
+Ealing,2014,2,1817
+Ealing,2014,3,2114
+Ealing,2014,4,1918
+Ealing,2014,5,2060
+Ealing,2014,6,2172
+Ealing,2014,7,2303
+Ealing,2014,8,2038
+Ealing,2014,9,2084
+Ealing,2014,10,2293
+Ealing,2014,11,2113
+Ealing,2014,12,2130
+Ealing,2015,1,2043
+Ealing,2015,2,1888
+Ealing,2015,3,2160
+Ealing,2015,4,2049
+Ealing,2015,5,2349
+Ealing,2015,6,2376
+Ealing,2015,7,2326
+Ealing,2015,8,2107
+Ealing,2015,9,2182
+Ealing,2015,10,2281
+Ealing,2015,11,2225
+Ealing,2015,12,2261
+Ealing,2016,1,2148
+Ealing,2016,2,1851
+Ealing,2016,3,2113
+Ealing,2016,4,2276
+Ealing,2016,5,2451
+Ealing,2016,6,2422
+Ealing,2016,7,2497
+Ealing,2016,8,2342
+Ealing,2016,9,2304
+Ealing,2016,10,2292
+Ealing,2016,11,2125
+Ealing,2016,12,2306
+Enfield,2008,1,2121
+Enfield,2008,2,1956
+Enfield,2008,3,1920
+Enfield,2008,4,1922
+Enfield,2008,5,1848
+Enfield,2008,6,1894
+Enfield,2008,7,1859
+Enfield,2008,8,1525
+Enfield,2008,9,1617
+Enfield,2008,10,1804
+Enfield,2008,11,1747
+Enfield,2008,12,1767
+Enfield,2009,1,1763
+Enfield,2009,2,1668
+Enfield,2009,3,1881
+Enfield,2009,4,1784
+Enfield,2009,5,1713
+Enfield,2009,6,1970
+Enfield,2009,7,1736
+Enfield,2009,8,1745
+Enfield,2009,9,1704
+Enfield,2009,10,1804
+Enfield,2009,11,1756
+Enfield,2009,12,1623
+Enfield,2010,1,1694
+Enfield,2010,2,1743
+Enfield,2010,3,1967
+Enfield,2010,4,1692
+Enfield,2010,5,1757
+Enfield,2010,6,1860
+Enfield,2010,7,1799
+Enfield,2010,8,1518
+Enfield,2010,9,1659
+Enfield,2010,10,1872
+Enfield,2010,11,1738
+Enfield,2010,12,1509
+Enfield,2011,1,1798
+Enfield,2011,2,1832
+Enfield,2011,3,1755
+Enfield,2011,4,1704
+Enfield,2011,5,1833
+Enfield,2011,6,1892
+Enfield,2011,7,1841
+Enfield,2011,8,1760
+Enfield,2011,9,1597
+Enfield,2011,10,1719
+Enfield,2011,11,1771
+Enfield,2011,12,1539
+Enfield,2012,1,1521
+Enfield,2012,2,1651
+Enfield,2012,3,1942
+Enfield,2012,4,1686
+Enfield,2012,5,1919
+Enfield,2012,6,1847
+Enfield,2012,7,1717
+Enfield,2012,8,1744
+Enfield,2012,9,1553
+Enfield,2012,10,1926
+Enfield,2012,11,1856
+Enfield,2012,12,1707
+Enfield,2013,1,1623
+Enfield,2013,2,1732
+Enfield,2013,3,1724
+Enfield,2013,4,1680
+Enfield,2013,5,1824
+Enfield,2013,6,1901
+Enfield,2013,7,1852
+Enfield,2013,8,1816
+Enfield,2013,9,1811
+Enfield,2013,10,1876
+Enfield,2013,11,1876
+Enfield,2013,12,1859
+Enfield,2014,1,1825
+Enfield,2014,2,1702
+Enfield,2014,3,1942
+Enfield,2014,4,1682
+Enfield,2014,5,1892
+Enfield,2014,6,1764
+Enfield,2014,7,1867
+Enfield,2014,8,1729
+Enfield,2014,9,1816
+Enfield,2014,10,1876
+Enfield,2014,11,1822
+Enfield,2014,12,1783
+Enfield,2015,1,1804
+Enfield,2015,2,1660
+Enfield,2015,3,1874
+Enfield,2015,4,1701
+Enfield,2015,5,1845
+Enfield,2015,6,1778
+Enfield,2015,7,1985
+Enfield,2015,8,1835
+Enfield,2015,9,1790
+Enfield,2015,10,1894
+Enfield,2015,11,1971
+Enfield,2015,12,1939
+Enfield,2016,1,1739
+Enfield,2016,2,1723
+Enfield,2016,3,1961
+Enfield,2016,4,1880
+Enfield,2016,5,2049
+Enfield,2016,6,1777
+Enfield,2016,7,1972
+Enfield,2016,8,1773
+Enfield,2016,9,1900
+Enfield,2016,10,1972
+Enfield,2016,11,1960
+Enfield,2016,12,1779
+Greenwich,2008,1,2093
+Greenwich,2008,2,1900
+Greenwich,2008,3,1898
+Greenwich,2008,4,1827
+Greenwich,2008,5,1956
+Greenwich,2008,6,1763
+Greenwich,2008,7,1929
+Greenwich,2008,8,1715
+Greenwich,2008,9,1632
+Greenwich,2008,10,1731
+Greenwich,2008,11,1787
+Greenwich,2008,12,1779
+Greenwich,2009,1,1799
+Greenwich,2009,2,1674
+Greenwich,2009,3,1764
+Greenwich,2009,4,1714
+Greenwich,2009,5,1793
+Greenwich,2009,6,1805
+Greenwich,2009,7,1717
+Greenwich,2009,8,1561
+Greenwich,2009,9,1530
+Greenwich,2009,10,1503
+Greenwich,2009,11,1605
+Greenwich,2009,12,1386
+Greenwich,2010,1,1472
+Greenwich,2010,2,1471
+Greenwich,2010,3,1753
+Greenwich,2010,4,1661
+Greenwich,2010,5,1618
+Greenwich,2010,6,1632
+Greenwich,2010,7,1571
+Greenwich,2010,8,1571
+Greenwich,2010,9,1565
+Greenwich,2010,10,1482
+Greenwich,2010,11,1515
+Greenwich,2010,12,1315
+Greenwich,2011,1,1420
+Greenwich,2011,2,1362
+Greenwich,2011,3,1570
+Greenwich,2011,4,1395
+Greenwich,2011,5,1498
+Greenwich,2011,6,1589
+Greenwich,2011,7,1531
+Greenwich,2011,8,1449
+Greenwich,2011,9,1545
+Greenwich,2011,10,1629
+Greenwich,2011,11,1763
+Greenwich,2011,12,1801
+Greenwich,2012,1,1708
+Greenwich,2012,2,1514
+Greenwich,2012,3,1729
+Greenwich,2012,4,1576
+Greenwich,2012,5,1817
+Greenwich,2012,6,1852
+Greenwich,2012,7,1734
+Greenwich,2012,8,1741
+Greenwich,2012,9,1494
+Greenwich,2012,10,1626
+Greenwich,2012,11,1657
+Greenwich,2012,12,1580
+Greenwich,2013,1,1656
+Greenwich,2013,2,1538
+Greenwich,2013,3,1491
+Greenwich,2013,4,1564
+Greenwich,2013,5,1496
+Greenwich,2013,6,1572
+Greenwich,2013,7,1662
+Greenwich,2013,8,1520
+Greenwich,2013,9,1579
+Greenwich,2013,10,1742
+Greenwich,2013,11,1676
+Greenwich,2013,12,1452
+Greenwich,2014,1,1572
+Greenwich,2014,2,1480
+Greenwich,2014,3,1605
+Greenwich,2014,4,1565
+Greenwich,2014,5,1648
+Greenwich,2014,6,1809
+Greenwich,2014,7,1872
+Greenwich,2014,8,1560
+Greenwich,2014,9,1789
+Greenwich,2014,10,1727
+Greenwich,2014,11,1672
+Greenwich,2014,12,1595
+Greenwich,2015,1,1779
+Greenwich,2015,2,1533
+Greenwich,2015,3,1771
+Greenwich,2015,4,1678
+Greenwich,2015,5,1782
+Greenwich,2015,6,1742
+Greenwich,2015,7,1838
+Greenwich,2015,8,1751
+Greenwich,2015,9,1695
+Greenwich,2015,10,1765
+Greenwich,2015,11,1846
+Greenwich,2015,12,1749
+Greenwich,2016,1,1863
+Greenwich,2016,2,1681
+Greenwich,2016,3,1836
+Greenwich,2016,4,1808
+Greenwich,2016,5,1868
+Greenwich,2016,6,2007
+Greenwich,2016,7,2050
+Greenwich,2016,8,1919
+Greenwich,2016,9,1955
+Greenwich,2016,10,1982
+Greenwich,2016,11,1881
+Greenwich,2016,12,1880
+Hackney,2008,1,1931
+Hackney,2008,2,1873
+Hackney,2008,3,1857
+Hackney,2008,4,1921
+Hackney,2008,5,1976
+Hackney,2008,6,2023
+Hackney,2008,7,2013
+Hackney,2008,8,1787
+Hackney,2008,9,1723
+Hackney,2008,10,1812
+Hackney,2008,11,1635
+Hackney,2008,12,1453
+Hackney,2009,1,1698
+Hackney,2009,2,1545
+Hackney,2009,3,1899
+Hackney,2009,4,1699
+Hackney,2009,5,1817
+Hackney,2009,6,1956
+Hackney,2009,7,1835
+Hackney,2009,8,1709
+Hackney,2009,9,1566
+Hackney,2009,10,1727
+Hackney,2009,11,1769
+Hackney,2009,12,1498
+Hackney,2010,1,1715
+Hackney,2010,2,1560
+Hackney,2010,3,1709
+Hackney,2010,4,1689
+Hackney,2010,5,1889
+Hackney,2010,6,1867
+Hackney,2010,7,1934
+Hackney,2010,8,1678
+Hackney,2010,9,1736
+Hackney,2010,10,1603
+Hackney,2010,11,1490
+Hackney,2010,12,1305
+Hackney,2011,1,1546
+Hackney,2011,2,1386
+Hackney,2011,3,1639
+Hackney,2011,4,1659
+Hackney,2011,5,1726
+Hackney,2011,6,1673
+Hackney,2011,7,1786
+Hackney,2011,8,1601
+Hackney,2011,9,2158
+Hackney,2011,10,2161
+Hackney,2011,11,2267
+Hackney,2011,12,1793
+Hackney,2012,1,2184
+Hackney,2012,2,1950
+Hackney,2012,3,2553
+Hackney,2012,4,2234
+Hackney,2012,5,2374
+Hackney,2012,6,2422
+Hackney,2012,7,2305
+Hackney,2012,8,2287
+Hackney,2012,9,2060
+Hackney,2012,10,2390
+Hackney,2012,11,2209
+Hackney,2012,12,2127
+Hackney,2013,1,2020
+Hackney,2013,2,2024
+Hackney,2013,3,2072
+Hackney,2013,4,2117
+Hackney,2013,5,2161
+Hackney,2013,6,2254
+Hackney,2013,7,2375
+Hackney,2013,8,2255
+Hackney,2013,9,2069
+Hackney,2013,10,2233
+Hackney,2013,11,2124
+Hackney,2013,12,1929
+Hackney,2014,1,1977
+Hackney,2014,2,1852
+Hackney,2014,3,2143
+Hackney,2014,4,1960
+Hackney,2014,5,2060
+Hackney,2014,6,2163
+Hackney,2014,7,2147
+Hackney,2014,8,2048
+Hackney,2014,9,2072
+Hackney,2014,10,2213
+Hackney,2014,11,2251
+Hackney,2014,12,2007
+Hackney,2015,1,2113
+Hackney,2015,2,2086
+Hackney,2015,3,2313
+Hackney,2015,4,2190
+Hackney,2015,5,2405
+Hackney,2015,6,2458
+Hackney,2015,7,2429
+Hackney,2015,8,2219
+Hackney,2015,9,2077
+Hackney,2015,10,2310
+Hackney,2015,11,2225
+Hackney,2015,12,2116
+Hackney,2016,1,2124
+Hackney,2016,2,2041
+Hackney,2016,3,2226
+Hackney,2016,4,2212
+Hackney,2016,5,2376
+Hackney,2016,6,2625
+Hackney,2016,7,2590
+Hackney,2016,8,2538
+Hackney,2016,9,2423
+Hackney,2016,10,2455
+Hackney,2016,11,2301
+Hackney,2016,12,2354
+Hammersmith and Fulham,2008,1,1895
+Hammersmith and Fulham,2008,2,1779
+Hammersmith and Fulham,2008,3,1627
+Hammersmith and Fulham,2008,4,1710
+Hammersmith and Fulham,2008,5,1735
+Hammersmith and Fulham,2008,6,1786
+Hammersmith and Fulham,2008,7,1762
+Hammersmith and Fulham,2008,8,1716
+Hammersmith and Fulham,2008,9,1674
+Hammersmith and Fulham,2008,10,1901
+Hammersmith and Fulham,2008,11,1837
+Hammersmith and Fulham,2008,12,1692
+Hammersmith and Fulham,2009,1,1824
+Hammersmith and Fulham,2009,2,1548
+Hammersmith and Fulham,2009,3,1860
+Hammersmith and Fulham,2009,4,1819
+Hammersmith and Fulham,2009,5,1805
+Hammersmith and Fulham,2009,6,1830
+Hammersmith and Fulham,2009,7,1861
+Hammersmith and Fulham,2009,8,1707
+Hammersmith and Fulham,2009,9,1728
+Hammersmith and Fulham,2009,10,1891
+Hammersmith and Fulham,2009,11,1746
+Hammersmith and Fulham,2009,12,1592
+Hammersmith and Fulham,2010,1,1556
+Hammersmith and Fulham,2010,2,1533
+Hammersmith and Fulham,2010,3,1833
+Hammersmith and Fulham,2010,4,1900
+Hammersmith and Fulham,2010,5,1894
+Hammersmith and Fulham,2010,6,1972
+Hammersmith and Fulham,2010,7,2020
+Hammersmith and Fulham,2010,8,1809
+Hammersmith and Fulham,2010,9,1849
+Hammersmith and Fulham,2010,10,1889
+Hammersmith and Fulham,2010,11,1958
+Hammersmith and Fulham,2010,12,1728
+Hammersmith and Fulham,2011,1,1903
+Hammersmith and Fulham,2011,2,1628
+Hammersmith and Fulham,2011,3,1948
+Hammersmith and Fulham,2011,4,1813
+Hammersmith and Fulham,2011,5,1966
+Hammersmith and Fulham,2011,6,1930
+Hammersmith and Fulham,2011,7,1902
+Hammersmith and Fulham,2011,8,1808
+Hammersmith and Fulham,2011,9,1727
+Hammersmith and Fulham,2011,10,1811
+Hammersmith and Fulham,2011,11,1893
+Hammersmith and Fulham,2011,12,1822
+Hammersmith and Fulham,2012,1,1711
+Hammersmith and Fulham,2012,2,1673
+Hammersmith and Fulham,2012,3,1827
+Hammersmith and Fulham,2012,4,1785
+Hammersmith and Fulham,2012,5,1903
+Hammersmith and Fulham,2012,6,1757
+Hammersmith and Fulham,2012,7,1821
+Hammersmith and Fulham,2012,8,1748
+Hammersmith and Fulham,2012,9,1706
+Hammersmith and Fulham,2012,10,1750
+Hammersmith and Fulham,2012,11,1721
+Hammersmith and Fulham,2012,12,1628
+Hammersmith and Fulham,2013,1,1577
+Hammersmith and Fulham,2013,2,1474
+Hammersmith and Fulham,2013,3,1489
+Hammersmith and Fulham,2013,4,1502
+Hammersmith and Fulham,2013,5,1613
+Hammersmith and Fulham,2013,6,1497
+Hammersmith and Fulham,2013,7,1557
+Hammersmith and Fulham,2013,8,1540
+Hammersmith and Fulham,2013,9,1511
+Hammersmith and Fulham,2013,10,1681
+Hammersmith and Fulham,2013,11,1684
+Hammersmith and Fulham,2013,12,1480
+Hammersmith and Fulham,2014,1,1552
+Hammersmith and Fulham,2014,2,1284
+Hammersmith and Fulham,2014,3,1475
+Hammersmith and Fulham,2014,4,1541
+Hammersmith and Fulham,2014,5,1737
+Hammersmith and Fulham,2014,6,1612
+Hammersmith and Fulham,2014,7,1573
+Hammersmith and Fulham,2014,8,1607
+Hammersmith and Fulham,2014,9,1584
+Hammersmith and Fulham,2014,10,1722
+Hammersmith and Fulham,2014,11,1820
+Hammersmith and Fulham,2014,12,1678
+Hammersmith and Fulham,2015,1,1634
+Hammersmith and Fulham,2015,2,1450
+Hammersmith and Fulham,2015,3,1701
+Hammersmith and Fulham,2015,4,1674
+Hammersmith and Fulham,2015,5,1744
+Hammersmith and Fulham,2015,6,1592
+Hammersmith and Fulham,2015,7,1686
+Hammersmith and Fulham,2015,8,1560
+Hammersmith and Fulham,2015,9,1560
+Hammersmith and Fulham,2015,10,1791
+Hammersmith and Fulham,2015,11,1761
+Hammersmith and Fulham,2015,12,1695
+Hammersmith and Fulham,2016,1,1587
+Hammersmith and Fulham,2016,2,1587
+Hammersmith and Fulham,2016,3,1653
+Hammersmith and Fulham,2016,4,1689
+Hammersmith and Fulham,2016,5,1904
+Hammersmith and Fulham,2016,6,1749
+Hammersmith and Fulham,2016,7,1670
+Hammersmith and Fulham,2016,8,1779
+Hammersmith and Fulham,2016,9,1630
+Hammersmith and Fulham,2016,10,1719
+Hammersmith and Fulham,2016,11,1576
+Hammersmith and Fulham,2016,12,1631
+Haringey,2008,1,2337
+Haringey,2008,2,2228
+Haringey,2008,3,2218
+Haringey,2008,4,2117
+Haringey,2008,5,2149
+Haringey,2008,6,2106
+Haringey,2008,7,2239
+Haringey,2008,8,1999
+Haringey,2008,9,1987
+Haringey,2008,10,2309
+Haringey,2008,11,2063
+Haringey,2008,12,1972
+Haringey,2009,1,1873
+Haringey,2009,2,1823
+Haringey,2009,3,2120
+Haringey,2009,4,2161
+Haringey,2009,5,2090
+Haringey,2009,6,1984
+Haringey,2009,7,2183
+Haringey,2009,8,2006
+Haringey,2009,9,1880
+Haringey,2009,10,1895
+Haringey,2009,11,1880
+Haringey,2009,12,1809
+Haringey,2010,1,1738
+Haringey,2010,2,1666
+Haringey,2010,3,1877
+Haringey,2010,4,1909
+Haringey,2010,5,1955
+Haringey,2010,6,2000
+Haringey,2010,7,2060
+Haringey,2010,8,1736
+Haringey,2010,9,1769
+Haringey,2010,10,1960
+Haringey,2010,11,1847
+Haringey,2010,12,1639
+Haringey,2011,1,1807
+Haringey,2011,2,1742
+Haringey,2011,3,1796
+Haringey,2011,4,1809
+Haringey,2011,5,1872
+Haringey,2011,6,2124
+Haringey,2011,7,1964
+Haringey,2011,8,2076
+Haringey,2011,9,1845
+Haringey,2011,10,1991
+Haringey,2011,11,2105
+Haringey,2011,12,2048
+Haringey,2012,1,2066
+Haringey,2012,2,1836
+Haringey,2012,3,2269
+Haringey,2012,4,1869
+Haringey,2012,5,2149
+Haringey,2012,6,2032
+Haringey,2012,7,1988
+Haringey,2012,8,1861
+Haringey,2012,9,1771
+Haringey,2012,10,1851
+Haringey,2012,11,1882
+Haringey,2012,12,1657
+Haringey,2013,1,1719
+Haringey,2013,2,1483
+Haringey,2013,3,1667
+Haringey,2013,4,1630
+Haringey,2013,5,1602
+Haringey,2013,6,1944
+Haringey,2013,7,1882
+Haringey,2013,8,1648
+Haringey,2013,9,1554
+Haringey,2013,10,1872
+Haringey,2013,11,1853
+Haringey,2013,12,1851
+Haringey,2014,1,1810
+Haringey,2014,2,1736
+Haringey,2014,3,1955
+Haringey,2014,4,1719
+Haringey,2014,5,1927
+Haringey,2014,6,1948
+Haringey,2014,7,1891
+Haringey,2014,8,1912
+Haringey,2014,9,1987
+Haringey,2014,10,2059
+Haringey,2014,11,1994
+Haringey,2014,12,1835
+Haringey,2015,1,1863
+Haringey,2015,2,1805
+Haringey,2015,3,2095
+Haringey,2015,4,2020
+Haringey,2015,5,1945
+Haringey,2015,6,2018
+Haringey,2015,7,2213
+Haringey,2015,8,2071
+Haringey,2015,9,2014
+Haringey,2015,10,2176
+Haringey,2015,11,2245
+Haringey,2015,12,2161
+Haringey,2016,1,1991
+Haringey,2016,2,2110
+Haringey,2016,3,2219
+Haringey,2016,4,2184
+Haringey,2016,5,2399
+Haringey,2016,6,2262
+Haringey,2016,7,2444
+Haringey,2016,8,2246
+Haringey,2016,9,2381
+Haringey,2016,10,2249
+Haringey,2016,11,2295
+Haringey,2016,12,2394
+Harrow,2008,1,1121
+Harrow,2008,2,1126
+Harrow,2008,3,1125
+Harrow,2008,4,1124
+Harrow,2008,5,1156
+Harrow,2008,6,1076
+Harrow,2008,7,1163
+Harrow,2008,8,1064
+Harrow,2008,9,1128
+Harrow,2008,10,1289
+Harrow,2008,11,1176
+Harrow,2008,12,1226
+Harrow,2009,1,1089
+Harrow,2009,2,1075
+Harrow,2009,3,1236
+Harrow,2009,4,1236
+Harrow,2009,5,1220
+Harrow,2009,6,1203
+Harrow,2009,7,1207
+Harrow,2009,8,1083
+Harrow,2009,9,1050
+Harrow,2009,10,1232
+Harrow,2009,11,1193
+Harrow,2009,12,1124
+Harrow,2010,1,1052
+Harrow,2010,2,1116
+Harrow,2010,3,1295
+Harrow,2010,4,1254
+Harrow,2010,5,1218
+Harrow,2010,6,1322
+Harrow,2010,7,1246
+Harrow,2010,8,1108
+Harrow,2010,9,1174
+Harrow,2010,10,1094
+Harrow,2010,11,1143
+Harrow,2010,12,923
+Harrow,2011,1,1067
+Harrow,2011,2,972
+Harrow,2011,3,1091
+Harrow,2011,4,1045
+Harrow,2011,5,1209
+Harrow,2011,6,1084
+Harrow,2011,7,1041
+Harrow,2011,8,1055
+Harrow,2011,9,961
+Harrow,2011,10,1057
+Harrow,2011,11,1095
+Harrow,2011,12,1124
+Harrow,2012,1,1158
+Harrow,2012,2,1039
+Harrow,2012,3,1231
+Harrow,2012,4,1004
+Harrow,2012,5,1095
+Harrow,2012,6,1121
+Harrow,2012,7,1107
+Harrow,2012,8,990
+Harrow,2012,9,963
+Harrow,2012,10,1037
+Harrow,2012,11,1069
+Harrow,2012,12,989
+Harrow,2013,1,1072
+Harrow,2013,2,975
+Harrow,2013,3,1057
+Harrow,2013,4,923
+Harrow,2013,5,1012
+Harrow,2013,6,978
+Harrow,2013,7,968
+Harrow,2013,8,980
+Harrow,2013,9,922
+Harrow,2013,10,1003
+Harrow,2013,11,1027
+Harrow,2013,12,997
+Harrow,2014,1,988
+Harrow,2014,2,944
+Harrow,2014,3,1089
+Harrow,2014,4,933
+Harrow,2014,5,974
+Harrow,2014,6,902
+Harrow,2014,7,1034
+Harrow,2014,8,959
+Harrow,2014,9,976
+Harrow,2014,10,1109
+Harrow,2014,11,1063
+Harrow,2014,12,938
+Harrow,2015,1,973
+Harrow,2015,2,1012
+Harrow,2015,3,1036
+Harrow,2015,4,955
+Harrow,2015,5,1097
+Harrow,2015,6,1005
+Harrow,2015,7,936
+Harrow,2015,8,1004
+Harrow,2015,9,1085
+Harrow,2015,10,1161
+Harrow,2015,11,1198
+Harrow,2015,12,1139
+Harrow,2016,1,1075
+Harrow,2016,2,976
+Harrow,2016,3,1130
+Harrow,2016,4,1048
+Harrow,2016,5,1105
+Harrow,2016,6,1153
+Harrow,2016,7,1187
+Harrow,2016,8,1022
+Harrow,2016,9,1090
+Harrow,2016,10,1099
+Harrow,2016,11,1110
+Harrow,2016,12,1158
+Havering,2008,1,1426
+Havering,2008,2,1394
+Havering,2008,3,1252
+Havering,2008,4,1354
+Havering,2008,5,1348
+Havering,2008,6,1336
+Havering,2008,7,1284
+Havering,2008,8,1275
+Havering,2008,9,1129
+Havering,2008,10,1174
+Havering,2008,11,1256
+Havering,2008,12,1167
+Havering,2009,1,1191
+Havering,2009,2,1219
+Havering,2009,3,1317
+Havering,2009,4,1180
+Havering,2009,5,1319
+Havering,2009,6,1201
+Havering,2009,7,1165
+Havering,2009,8,1107
+Havering,2009,9,1169
+Havering,2009,10,1277
+Havering,2009,11,1281
+Havering,2009,12,1112
+Havering,2010,1,1238
+Havering,2010,2,1153
+Havering,2010,3,1378
+Havering,2010,4,1171
+Havering,2010,5,1182
+Havering,2010,6,1359
+Havering,2010,7,1284
+Havering,2010,8,1173
+Havering,2010,9,1235
+Havering,2010,10,1405
+Havering,2010,11,1296
+Havering,2010,12,1083
+Havering,2011,1,1296
+Havering,2011,2,1169
+Havering,2011,3,1380
+Havering,2011,4,1211
+Havering,2011,5,1354
+Havering,2011,6,1264
+Havering,2011,7,1336
+Havering,2011,8,1294
+Havering,2011,9,1272
+Havering,2011,10,1318
+Havering,2011,11,1310
+Havering,2011,12,1292
+Havering,2012,1,1324
+Havering,2012,2,1382
+Havering,2012,3,1532
+Havering,2012,4,1270
+Havering,2012,5,1353
+Havering,2012,6,1274
+Havering,2012,7,1295
+Havering,2012,8,1266
+Havering,2012,9,1212
+Havering,2012,10,1303
+Havering,2012,11,1371
+Havering,2012,12,1383
+Havering,2013,1,1317
+Havering,2013,2,1260
+Havering,2013,3,1348
+Havering,2013,4,1239
+Havering,2013,5,1297
+Havering,2013,6,1157
+Havering,2013,7,1310
+Havering,2013,8,1205
+Havering,2013,9,1211
+Havering,2013,10,1296
+Havering,2013,11,1216
+Havering,2013,12,1233
+Havering,2014,1,1249
+Havering,2014,2,1161
+Havering,2014,3,1207
+Havering,2014,4,1256
+Havering,2014,5,1270
+Havering,2014,6,1091
+Havering,2014,7,1186
+Havering,2014,8,1283
+Havering,2014,9,1180
+Havering,2014,10,1311
+Havering,2014,11,1242
+Havering,2014,12,1298
+Havering,2015,1,1241
+Havering,2015,2,1153
+Havering,2015,3,1277
+Havering,2015,4,1169
+Havering,2015,5,1246
+Havering,2015,6,1386
+Havering,2015,7,1437
+Havering,2015,8,1286
+Havering,2015,9,1280
+Havering,2015,10,1485
+Havering,2015,11,1466
+Havering,2015,12,1444
+Havering,2016,1,1330
+Havering,2016,2,1386
+Havering,2016,3,1438
+Havering,2016,4,1425
+Havering,2016,5,1517
+Havering,2016,6,1483
+Havering,2016,7,1399
+Havering,2016,8,1327
+Havering,2016,9,1364
+Havering,2016,10,1404
+Havering,2016,11,1403
+Havering,2016,12,1427
+Hillingdon,2008,1,2268
+Hillingdon,2008,2,2079
+Hillingdon,2008,3,2063
+Hillingdon,2008,4,1816
+Hillingdon,2008,5,1807
+Hillingdon,2008,6,1958
+Hillingdon,2008,7,1980
+Hillingdon,2008,8,2028
+Hillingdon,2008,9,2044
+Hillingdon,2008,10,2093
+Hillingdon,2008,11,2145
+Hillingdon,2008,12,2037
+Hillingdon,2009,1,2210
+Hillingdon,2009,2,2059
+Hillingdon,2009,3,2286
+Hillingdon,2009,4,2038
+Hillingdon,2009,5,2108
+Hillingdon,2009,6,2024
+Hillingdon,2009,7,2030
+Hillingdon,2009,8,2066
+Hillingdon,2009,9,1970
+Hillingdon,2009,10,2051
+Hillingdon,2009,11,1958
+Hillingdon,2009,12,1805
+Hillingdon,2010,1,1896
+Hillingdon,2010,2,1864
+Hillingdon,2010,3,2121
+Hillingdon,2010,4,1993
+Hillingdon,2010,5,2038
+Hillingdon,2010,6,2101
+Hillingdon,2010,7,2019
+Hillingdon,2010,8,1796
+Hillingdon,2010,9,1845
+Hillingdon,2010,10,1981
+Hillingdon,2010,11,2059
+Hillingdon,2010,12,1708
+Hillingdon,2011,1,1967
+Hillingdon,2011,2,1841
+Hillingdon,2011,3,2110
+Hillingdon,2011,4,2004
+Hillingdon,2011,5,2052
+Hillingdon,2011,6,1964
+Hillingdon,2011,7,2040
+Hillingdon,2011,8,1958
+Hillingdon,2011,9,2096
+Hillingdon,2011,10,2157
+Hillingdon,2011,11,2002
+Hillingdon,2011,12,2091
+Hillingdon,2012,1,2020
+Hillingdon,2012,2,1787
+Hillingdon,2012,3,2073
+Hillingdon,2012,4,1868
+Hillingdon,2012,5,1898
+Hillingdon,2012,6,1772
+Hillingdon,2012,7,1766
+Hillingdon,2012,8,1919
+Hillingdon,2012,9,1660
+Hillingdon,2012,10,1803
+Hillingdon,2012,11,1794
+Hillingdon,2012,12,1743
+Hillingdon,2013,1,1727
+Hillingdon,2013,2,1621
+Hillingdon,2013,3,1749
+Hillingdon,2013,4,1636
+Hillingdon,2013,5,1720
+Hillingdon,2013,6,1633
+Hillingdon,2013,7,1753
+Hillingdon,2013,8,1579
+Hillingdon,2013,9,1575
+Hillingdon,2013,10,1975
+Hillingdon,2013,11,1746
+Hillingdon,2013,12,1534
+Hillingdon,2014,1,1716
+Hillingdon,2014,2,1607
+Hillingdon,2014,3,1985
+Hillingdon,2014,4,1889
+Hillingdon,2014,5,2008
+Hillingdon,2014,6,2010
+Hillingdon,2014,7,2089
+Hillingdon,2014,8,1890
+Hillingdon,2014,9,1879
+Hillingdon,2014,10,2090
+Hillingdon,2014,11,2099
+Hillingdon,2014,12,1866
+Hillingdon,2015,1,1881
+Hillingdon,2015,2,1832
+Hillingdon,2015,3,1955
+Hillingdon,2015,4,1805
+Hillingdon,2015,5,1983
+Hillingdon,2015,6,2049
+Hillingdon,2015,7,1914
+Hillingdon,2015,8,1813
+Hillingdon,2015,9,1891
+Hillingdon,2015,10,2081
+Hillingdon,2015,11,2010
+Hillingdon,2015,12,2020
+Hillingdon,2016,1,1964
+Hillingdon,2016,2,1904
+Hillingdon,2016,3,1851
+Hillingdon,2016,4,1792
+Hillingdon,2016,5,2238
+Hillingdon,2016,6,2007
+Hillingdon,2016,7,2134
+Hillingdon,2016,8,1978
+Hillingdon,2016,9,2054
+Hillingdon,2016,10,2112
+Hillingdon,2016,11,2007
+Hillingdon,2016,12,2300
+Hounslow,2008,1,1759
+Hounslow,2008,2,1804
+Hounslow,2008,3,1624
+Hounslow,2008,4,1613
+Hounslow,2008,5,1695
+Hounslow,2008,6,1761
+Hounslow,2008,7,1713
+Hounslow,2008,8,1678
+Hounslow,2008,9,1681
+Hounslow,2008,10,1684
+Hounslow,2008,11,1699
+Hounslow,2008,12,1493
+Hounslow,2009,1,1584
+Hounslow,2009,2,1570
+Hounslow,2009,3,1718
+Hounslow,2009,4,1645
+Hounslow,2009,5,1745
+Hounslow,2009,6,1768
+Hounslow,2009,7,1686
+Hounslow,2009,8,1571
+Hounslow,2009,9,1720
+Hounslow,2009,10,1784
+Hounslow,2009,11,1600
+Hounslow,2009,12,1392
+Hounslow,2010,1,1439
+Hounslow,2010,2,1427
+Hounslow,2010,3,1681
+Hounslow,2010,4,1725
+Hounslow,2010,5,1719
+Hounslow,2010,6,1696
+Hounslow,2010,7,1869
+Hounslow,2010,8,1669
+Hounslow,2010,9,1688
+Hounslow,2010,10,1737
+Hounslow,2010,11,1648
+Hounslow,2010,12,1367
+Hounslow,2011,1,1677
+Hounslow,2011,2,1450
+Hounslow,2011,3,1638
+Hounslow,2011,4,1697
+Hounslow,2011,5,1840
+Hounslow,2011,6,1724
+Hounslow,2011,7,1874
+Hounslow,2011,8,1616
+Hounslow,2011,9,1901
+Hounslow,2011,10,1912
+Hounslow,2011,11,2036
+Hounslow,2011,12,1740
+Hounslow,2012,1,2134
+Hounslow,2012,2,1798
+Hounslow,2012,3,2127
+Hounslow,2012,4,1879
+Hounslow,2012,5,1940
+Hounslow,2012,6,1921
+Hounslow,2012,7,1941
+Hounslow,2012,8,1850
+Hounslow,2012,9,1802
+Hounslow,2012,10,1878
+Hounslow,2012,11,1754
+Hounslow,2012,12,1700
+Hounslow,2013,1,1703
+Hounslow,2013,2,1536
+Hounslow,2013,3,1712
+Hounslow,2013,4,1573
+Hounslow,2013,5,1641
+Hounslow,2013,6,1581
+Hounslow,2013,7,1733
+Hounslow,2013,8,1671
+Hounslow,2013,9,1651
+Hounslow,2013,10,1710
+Hounslow,2013,11,1715
+Hounslow,2013,12,1523
+Hounslow,2014,1,1504
+Hounslow,2014,2,1560
+Hounslow,2014,3,1584
+Hounslow,2014,4,1628
+Hounslow,2014,5,1689
+Hounslow,2014,6,1745
+Hounslow,2014,7,1693
+Hounslow,2014,8,1624
+Hounslow,2014,9,1609
+Hounslow,2014,10,1863
+Hounslow,2014,11,1757
+Hounslow,2014,12,1749
+Hounslow,2015,1,1702
+Hounslow,2015,2,1670
+Hounslow,2015,3,1719
+Hounslow,2015,4,1604
+Hounslow,2015,5,1788
+Hounslow,2015,6,1795
+Hounslow,2015,7,1929
+Hounslow,2015,8,1725
+Hounslow,2015,9,1737
+Hounslow,2015,10,1885
+Hounslow,2015,11,1895
+Hounslow,2015,12,1837
+Hounslow,2016,1,1736
+Hounslow,2016,2,1723
+Hounslow,2016,3,1719
+Hounslow,2016,4,1743
+Hounslow,2016,5,1943
+Hounslow,2016,6,1863
+Hounslow,2016,7,1910
+Hounslow,2016,8,1891
+Hounslow,2016,9,1886
+Hounslow,2016,10,2134
+Hounslow,2016,11,1904
+Hounslow,2016,12,1799
+Islington,2008,1,2153
+Islington,2008,2,2359
+Islington,2008,3,2201
+Islington,2008,4,2031
+Islington,2008,5,2086
+Islington,2008,6,2303
+Islington,2008,7,2251
+Islington,2008,8,2013
+Islington,2008,9,2111
+Islington,2008,10,2367
+Islington,2008,11,2354
+Islington,2008,12,2044
+Islington,2009,1,2095
+Islington,2009,2,2076
+Islington,2009,3,2238
+Islington,2009,4,2132
+Islington,2009,5,2210
+Islington,2009,6,2275
+Islington,2009,7,2214
+Islington,2009,8,2007
+Islington,2009,9,1960
+Islington,2009,10,2232
+Islington,2009,11,2202
+Islington,2009,12,1844
+Islington,2010,1,1798
+Islington,2010,2,1804
+Islington,2010,3,2301
+Islington,2010,4,2063
+Islington,2010,5,2196
+Islington,2010,6,2059
+Islington,2010,7,2139
+Islington,2010,8,1959
+Islington,2010,9,2119
+Islington,2010,10,2271
+Islington,2010,11,2092
+Islington,2010,12,1892
+Islington,2011,1,2002
+Islington,2011,2,2040
+Islington,2011,3,2145
+Islington,2011,4,1937
+Islington,2011,5,2216
+Islington,2011,6,2253
+Islington,2011,7,2052
+Islington,2011,8,1889
+Islington,2011,9,1976
+Islington,2011,10,2216
+Islington,2011,11,2361
+Islington,2011,12,1893
+Islington,2012,1,2002
+Islington,2012,2,1860
+Islington,2012,3,2351
+Islington,2012,4,2213
+Islington,2012,5,2365
+Islington,2012,6,2169
+Islington,2012,7,2374
+Islington,2012,8,2278
+Islington,2012,9,2047
+Islington,2012,10,2279
+Islington,2012,11,2194
+Islington,2012,12,2136
+Islington,2013,1,2080
+Islington,2013,2,2054
+Islington,2013,3,2007
+Islington,2013,4,1839
+Islington,2013,5,2034
+Islington,2013,6,1901
+Islington,2013,7,2028
+Islington,2013,8,1927
+Islington,2013,9,1997
+Islington,2013,10,2121
+Islington,2013,11,2009
+Islington,2013,12,1787
+Islington,2014,1,2001
+Islington,2014,2,1904
+Islington,2014,3,2151
+Islington,2014,4,1985
+Islington,2014,5,2013
+Islington,2014,6,1927
+Islington,2014,7,2015
+Islington,2014,8,1900
+Islington,2014,9,2169
+Islington,2014,10,2211
+Islington,2014,11,2225
+Islington,2014,12,2178
+Islington,2015,1,2097
+Islington,2015,2,2094
+Islington,2015,3,2369
+Islington,2015,4,2295
+Islington,2015,5,2395
+Islington,2015,6,2320
+Islington,2015,7,2297
+Islington,2015,8,2141
+Islington,2015,9,2087
+Islington,2015,10,2302
+Islington,2015,11,2303
+Islington,2015,12,2332
+Islington,2016,1,2338
+Islington,2016,2,2161
+Islington,2016,3,2091
+Islington,2016,4,2122
+Islington,2016,5,2168
+Islington,2016,6,2487
+Islington,2016,7,2569
+Islington,2016,8,2221
+Islington,2016,9,2099
+Islington,2016,10,2272
+Islington,2016,11,2239
+Islington,2016,12,2325
+Kensington and Chelsea,2008,1,1733
+Kensington and Chelsea,2008,2,1607
+Kensington and Chelsea,2008,3,1745
+Kensington and Chelsea,2008,4,1691
+Kensington and Chelsea,2008,5,1803
+Kensington and Chelsea,2008,6,1689
+Kensington and Chelsea,2008,7,1767
+Kensington and Chelsea,2008,8,2282
+Kensington and Chelsea,2008,9,1596
+Kensington and Chelsea,2008,10,1679
+Kensington and Chelsea,2008,11,1581
+Kensington and Chelsea,2008,12,1490
+Kensington and Chelsea,2009,1,1467
+Kensington and Chelsea,2009,2,1377
+Kensington and Chelsea,2009,3,1548
+Kensington and Chelsea,2009,4,1460
+Kensington and Chelsea,2009,5,1599
+Kensington and Chelsea,2009,6,1669
+Kensington and Chelsea,2009,7,1640
+Kensington and Chelsea,2009,8,1743
+Kensington and Chelsea,2009,9,1699
+Kensington and Chelsea,2009,10,1656
+Kensington and Chelsea,2009,11,1473
+Kensington and Chelsea,2009,12,1411
+Kensington and Chelsea,2010,1,1406
+Kensington and Chelsea,2010,2,1419
+Kensington and Chelsea,2010,3,1634
+Kensington and Chelsea,2010,4,1521
+Kensington and Chelsea,2010,5,1647
+Kensington and Chelsea,2010,6,1631
+Kensington and Chelsea,2010,7,1757
+Kensington and Chelsea,2010,8,1964
+Kensington and Chelsea,2010,9,1817
+Kensington and Chelsea,2010,10,1694
+Kensington and Chelsea,2010,11,1516
+Kensington and Chelsea,2010,12,1475
+Kensington and Chelsea,2011,1,1556
+Kensington and Chelsea,2011,2,1366
+Kensington and Chelsea,2011,3,1652
+Kensington and Chelsea,2011,4,1544
+Kensington and Chelsea,2011,5,1799
+Kensington and Chelsea,2011,6,1551
+Kensington and Chelsea,2011,7,1561
+Kensington and Chelsea,2011,8,1869
+Kensington and Chelsea,2011,9,1426
+Kensington and Chelsea,2011,10,1436
+Kensington and Chelsea,2011,11,1729
+Kensington and Chelsea,2011,12,1657
+Kensington and Chelsea,2012,1,1679
+Kensington and Chelsea,2012,2,1433
+Kensington and Chelsea,2012,3,1769
+Kensington and Chelsea,2012,4,1604
+Kensington and Chelsea,2012,5,1676
+Kensington and Chelsea,2012,6,1571
+Kensington and Chelsea,2012,7,1560
+Kensington and Chelsea,2012,8,2263
+Kensington and Chelsea,2012,9,1496
+Kensington and Chelsea,2012,10,1615
+Kensington and Chelsea,2012,11,1525
+Kensington and Chelsea,2012,12,1566
+Kensington and Chelsea,2013,1,1536
+Kensington and Chelsea,2013,2,1519
+Kensington and Chelsea,2013,3,1368
+Kensington and Chelsea,2013,4,1395
+Kensington and Chelsea,2013,5,1372
+Kensington and Chelsea,2013,6,1369
+Kensington and Chelsea,2013,7,1440
+Kensington and Chelsea,2013,8,2048
+Kensington and Chelsea,2013,9,1411
+Kensington and Chelsea,2013,10,1443
+Kensington and Chelsea,2013,11,1444
+Kensington and Chelsea,2013,12,1357
+Kensington and Chelsea,2014,1,1344
+Kensington and Chelsea,2014,2,1325
+Kensington and Chelsea,2014,3,1419
+Kensington and Chelsea,2014,4,1446
+Kensington and Chelsea,2014,5,1440
+Kensington and Chelsea,2014,6,1395
+Kensington and Chelsea,2014,7,1406
+Kensington and Chelsea,2014,8,2007
+Kensington and Chelsea,2014,9,1387
+Kensington and Chelsea,2014,10,1566
+Kensington and Chelsea,2014,11,1511
+Kensington and Chelsea,2014,12,1594
+Kensington and Chelsea,2015,1,1527
+Kensington and Chelsea,2015,2,1367
+Kensington and Chelsea,2015,3,1557
+Kensington and Chelsea,2015,4,1430
+Kensington and Chelsea,2015,5,1590
+Kensington and Chelsea,2015,6,1591
+Kensington and Chelsea,2015,7,1601
+Kensington and Chelsea,2015,8,1665
+Kensington and Chelsea,2015,9,1745
+Kensington and Chelsea,2015,10,1715
+Kensington and Chelsea,2015,11,1619
+Kensington and Chelsea,2015,12,1663
+Kensington and Chelsea,2016,1,1511
+Kensington and Chelsea,2016,2,1392
+Kensington and Chelsea,2016,3,1531
+Kensington and Chelsea,2016,4,1414
+Kensington and Chelsea,2016,5,1624
+Kensington and Chelsea,2016,6,1637
+Kensington and Chelsea,2016,7,1653
+Kensington and Chelsea,2016,8,2398
+Kensington and Chelsea,2016,9,1709
+Kensington and Chelsea,2016,10,1595
+Kensington and Chelsea,2016,11,1512
+Kensington and Chelsea,2016,12,1604
+Kingston upon Thames,2008,1,920
+Kingston upon Thames,2008,2,908
+Kingston upon Thames,2008,3,985
+Kingston upon Thames,2008,4,876
+Kingston upon Thames,2008,5,945
+Kingston upon Thames,2008,6,870
+Kingston upon Thames,2008,7,809
+Kingston upon Thames,2008,8,885
+Kingston upon Thames,2008,9,805
+Kingston upon Thames,2008,10,881
+Kingston upon Thames,2008,11,885
+Kingston upon Thames,2008,12,892
+Kingston upon Thames,2009,1,774
+Kingston upon Thames,2009,2,784
+Kingston upon Thames,2009,3,940
+Kingston upon Thames,2009,4,903
+Kingston upon Thames,2009,5,891
+Kingston upon Thames,2009,6,846
+Kingston upon Thames,2009,7,862
+Kingston upon Thames,2009,8,830
+Kingston upon Thames,2009,9,825
+Kingston upon Thames,2009,10,823
+Kingston upon Thames,2009,11,828
+Kingston upon Thames,2009,12,857
+Kingston upon Thames,2010,1,784
+Kingston upon Thames,2010,2,740
+Kingston upon Thames,2010,3,871
+Kingston upon Thames,2010,4,834
+Kingston upon Thames,2010,5,878
+Kingston upon Thames,2010,6,925
+Kingston upon Thames,2010,7,844
+Kingston upon Thames,2010,8,779
+Kingston upon Thames,2010,9,936
+Kingston upon Thames,2010,10,966
+Kingston upon Thames,2010,11,847
+Kingston upon Thames,2010,12,767
+Kingston upon Thames,2011,1,722
+Kingston upon Thames,2011,2,817
+Kingston upon Thames,2011,3,885
+Kingston upon Thames,2011,4,848
+Kingston upon Thames,2011,5,784
+Kingston upon Thames,2011,6,828
+Kingston upon Thames,2011,7,867
+Kingston upon Thames,2011,8,787
+Kingston upon Thames,2011,9,825
+Kingston upon Thames,2011,10,975
+Kingston upon Thames,2011,11,911
+Kingston upon Thames,2011,12,906
+Kingston upon Thames,2012,1,878
+Kingston upon Thames,2012,2,830
+Kingston upon Thames,2012,3,906
+Kingston upon Thames,2012,4,797
+Kingston upon Thames,2012,5,804
+Kingston upon Thames,2012,6,829
+Kingston upon Thames,2012,7,773
+Kingston upon Thames,2012,8,875
+Kingston upon Thames,2012,9,829
+Kingston upon Thames,2012,10,890
+Kingston upon Thames,2012,11,827
+Kingston upon Thames,2012,12,718
+Kingston upon Thames,2013,1,776
+Kingston upon Thames,2013,2,743
+Kingston upon Thames,2013,3,797
+Kingston upon Thames,2013,4,746
+Kingston upon Thames,2013,5,786
+Kingston upon Thames,2013,6,721
+Kingston upon Thames,2013,7,747
+Kingston upon Thames,2013,8,741
+Kingston upon Thames,2013,9,744
+Kingston upon Thames,2013,10,847
+Kingston upon Thames,2013,11,815
+Kingston upon Thames,2013,12,728
+Kingston upon Thames,2014,1,673
+Kingston upon Thames,2014,2,687
+Kingston upon Thames,2014,3,809
+Kingston upon Thames,2014,4,699
+Kingston upon Thames,2014,5,762
+Kingston upon Thames,2014,6,770
+Kingston upon Thames,2014,7,732
+Kingston upon Thames,2014,8,755
+Kingston upon Thames,2014,9,840
+Kingston upon Thames,2014,10,833
+Kingston upon Thames,2014,11,891
+Kingston upon Thames,2014,12,837
+Kingston upon Thames,2015,1,756
+Kingston upon Thames,2015,2,761
+Kingston upon Thames,2015,3,799
+Kingston upon Thames,2015,4,761
+Kingston upon Thames,2015,5,815
+Kingston upon Thames,2015,6,865
+Kingston upon Thames,2015,7,841
+Kingston upon Thames,2015,8,784
+Kingston upon Thames,2015,9,775
+Kingston upon Thames,2015,10,838
+Kingston upon Thames,2015,11,848
+Kingston upon Thames,2015,12,895
+Kingston upon Thames,2016,1,807
+Kingston upon Thames,2016,2,801
+Kingston upon Thames,2016,3,782
+Kingston upon Thames,2016,4,861
+Kingston upon Thames,2016,5,878
+Kingston upon Thames,2016,6,793
+Kingston upon Thames,2016,7,819
+Kingston upon Thames,2016,8,796
+Kingston upon Thames,2016,9,902
+Kingston upon Thames,2016,10,859
+Kingston upon Thames,2016,11,804
+Kingston upon Thames,2016,12,881
+Lambeth,2008,1,2740
+Lambeth,2008,2,2720
+Lambeth,2008,3,2586
+Lambeth,2008,4,2448
+Lambeth,2008,5,2650
+Lambeth,2008,6,2766
+Lambeth,2008,7,2756
+Lambeth,2008,8,2546
+Lambeth,2008,9,2640
+Lambeth,2008,10,2773
+Lambeth,2008,11,2599
+Lambeth,2008,12,2493
+Lambeth,2009,1,2408
+Lambeth,2009,2,2214
+Lambeth,2009,3,2660
+Lambeth,2009,4,2614
+Lambeth,2009,5,2798
+Lambeth,2009,6,2913
+Lambeth,2009,7,2794
+Lambeth,2009,8,2675
+Lambeth,2009,9,2457
+Lambeth,2009,10,2727
+Lambeth,2009,11,2651
+Lambeth,2009,12,2314
+Lambeth,2010,1,2494
+Lambeth,2010,2,2361
+Lambeth,2010,3,2804
+Lambeth,2010,4,2620
+Lambeth,2010,5,2677
+Lambeth,2010,6,2832
+Lambeth,2010,7,2836
+Lambeth,2010,8,2559
+Lambeth,2010,9,2708
+Lambeth,2010,10,2839
+Lambeth,2010,11,2825
+Lambeth,2010,12,2116
+Lambeth,2011,1,2672
+Lambeth,2011,2,2491
+Lambeth,2011,3,2705
+Lambeth,2011,4,2938
+Lambeth,2011,5,2771
+Lambeth,2011,6,2755
+Lambeth,2011,7,2881
+Lambeth,2011,8,2751
+Lambeth,2011,9,2756
+Lambeth,2011,10,2929
+Lambeth,2011,11,2949
+Lambeth,2011,12,2626
+Lambeth,2012,1,3154
+Lambeth,2012,2,2311
+Lambeth,2012,3,2995
+Lambeth,2012,4,2736
+Lambeth,2012,5,2745
+Lambeth,2012,6,2887
+Lambeth,2012,7,2748
+Lambeth,2012,8,2872
+Lambeth,2012,9,2698
+Lambeth,2012,10,2756
+Lambeth,2012,11,2873
+Lambeth,2012,12,2698
+Lambeth,2013,1,2696
+Lambeth,2013,2,2359
+Lambeth,2013,3,2658
+Lambeth,2013,4,2519
+Lambeth,2013,5,2615
+Lambeth,2013,6,2681
+Lambeth,2013,7,2867
+Lambeth,2013,8,2860
+Lambeth,2013,9,2648
+Lambeth,2013,10,2844
+Lambeth,2013,11,2614
+Lambeth,2013,12,2507
+Lambeth,2014,1,2726
+Lambeth,2014,2,2359
+Lambeth,2014,3,2493
+Lambeth,2014,4,2479
+Lambeth,2014,5,2519
+Lambeth,2014,6,2744
+Lambeth,2014,7,2692
+Lambeth,2014,8,2797
+Lambeth,2014,9,2761
+Lambeth,2014,10,2931
+Lambeth,2014,11,2708
+Lambeth,2014,12,2556
+Lambeth,2015,1,2415
+Lambeth,2015,2,2419
+Lambeth,2015,3,2757
+Lambeth,2015,4,2630
+Lambeth,2015,5,2931
+Lambeth,2015,6,2735
+Lambeth,2015,7,2957
+Lambeth,2015,8,2944
+Lambeth,2015,9,2692
+Lambeth,2015,10,2978
+Lambeth,2015,11,2973
+Lambeth,2015,12,2733
+Lambeth,2016,1,2752
+Lambeth,2016,2,2581
+Lambeth,2016,3,2721
+Lambeth,2016,4,2752
+Lambeth,2016,5,3089
+Lambeth,2016,6,2929
+Lambeth,2016,7,3161
+Lambeth,2016,8,3016
+Lambeth,2016,9,2854
+Lambeth,2016,10,2872
+Lambeth,2016,11,2685
+Lambeth,2016,12,2659
+Lewisham,2008,1,2412
+Lewisham,2008,2,2323
+Lewisham,2008,3,2115
+Lewisham,2008,4,2123
+Lewisham,2008,5,2426
+Lewisham,2008,6,2351
+Lewisham,2008,7,2340
+Lewisham,2008,8,2254
+Lewisham,2008,9,2154
+Lewisham,2008,10,2301
+Lewisham,2008,11,2258
+Lewisham,2008,12,1997
+Lewisham,2009,1,2112
+Lewisham,2009,2,1987
+Lewisham,2009,3,2347
+Lewisham,2009,4,2009
+Lewisham,2009,5,2137
+Lewisham,2009,6,2218
+Lewisham,2009,7,2233
+Lewisham,2009,8,2127
+Lewisham,2009,9,2114
+Lewisham,2009,10,2115
+Lewisham,2009,11,1969
+Lewisham,2009,12,1814
+Lewisham,2010,1,1832
+Lewisham,2010,2,1982
+Lewisham,2010,3,2322
+Lewisham,2010,4,2189
+Lewisham,2010,5,2169
+Lewisham,2010,6,2164
+Lewisham,2010,7,2143
+Lewisham,2010,8,1991
+Lewisham,2010,9,1855
+Lewisham,2010,10,2027
+Lewisham,2010,11,2042
+Lewisham,2010,12,1816
+Lewisham,2011,1,2098
+Lewisham,2011,2,1950
+Lewisham,2011,3,2148
+Lewisham,2011,4,1884
+Lewisham,2011,5,2045
+Lewisham,2011,6,1962
+Lewisham,2011,7,1962
+Lewisham,2011,8,2040
+Lewisham,2011,9,1986
+Lewisham,2011,10,2161
+Lewisham,2011,11,2043
+Lewisham,2011,12,1922
+Lewisham,2012,1,2036
+Lewisham,2012,2,1804
+Lewisham,2012,3,2254
+Lewisham,2012,4,1829
+Lewisham,2012,5,2023
+Lewisham,2012,6,2060
+Lewisham,2012,7,1992
+Lewisham,2012,8,1910
+Lewisham,2012,9,1855
+Lewisham,2012,10,1939
+Lewisham,2012,11,2030
+Lewisham,2012,12,1920
+Lewisham,2013,1,1937
+Lewisham,2013,2,1835
+Lewisham,2013,3,1900
+Lewisham,2013,4,1781
+Lewisham,2013,5,1746
+Lewisham,2013,6,1886
+Lewisham,2013,7,1984
+Lewisham,2013,8,1881
+Lewisham,2013,9,1760
+Lewisham,2013,10,1851
+Lewisham,2013,11,1807
+Lewisham,2013,12,1706
+Lewisham,2014,1,1754
+Lewisham,2014,2,1620
+Lewisham,2014,3,1772
+Lewisham,2014,4,1708
+Lewisham,2014,5,1738
+Lewisham,2014,6,1706
+Lewisham,2014,7,1966
+Lewisham,2014,8,1640
+Lewisham,2014,9,1840
+Lewisham,2014,10,1846
+Lewisham,2014,11,1709
+Lewisham,2014,12,1802
+Lewisham,2015,1,1730
+Lewisham,2015,2,1766
+Lewisham,2015,3,1909
+Lewisham,2015,4,1916
+Lewisham,2015,5,2037
+Lewisham,2015,6,2042
+Lewisham,2015,7,2048
+Lewisham,2015,8,1974
+Lewisham,2015,9,1933
+Lewisham,2015,10,2015
+Lewisham,2015,11,2051
+Lewisham,2015,12,2016
+Lewisham,2016,1,1989
+Lewisham,2016,2,1856
+Lewisham,2016,3,1966
+Lewisham,2016,4,1887
+Lewisham,2016,5,2180
+Lewisham,2016,6,2122
+Lewisham,2016,7,2136
+Lewisham,2016,8,1991
+Lewisham,2016,9,1885
+Lewisham,2016,10,2000
+Lewisham,2016,11,1940
+Lewisham,2016,12,1952
+Merton,2008,1,1126
+Merton,2008,2,1172
+Merton,2008,3,1124
+Merton,2008,4,1112
+Merton,2008,5,1153
+Merton,2008,6,1222
+Merton,2008,7,1277
+Merton,2008,8,1100
+Merton,2008,9,1147
+Merton,2008,10,1179
+Merton,2008,11,1195
+Merton,2008,12,1068
+Merton,2009,1,1124
+Merton,2009,2,955
+Merton,2009,3,1162
+Merton,2009,4,1186
+Merton,2009,5,1241
+Merton,2009,6,1260
+Merton,2009,7,1176
+Merton,2009,8,1045
+Merton,2009,9,1141
+Merton,2009,10,1128
+Merton,2009,11,1127
+Merton,2009,12,1016
+Merton,2010,1,1033
+Merton,2010,2,1067
+Merton,2010,3,1215
+Merton,2010,4,1143
+Merton,2010,5,1135
+Merton,2010,6,1253
+Merton,2010,7,1219
+Merton,2010,8,1114
+Merton,2010,9,1096
+Merton,2010,10,1194
+Merton,2010,11,1116
+Merton,2010,12,1010
+Merton,2011,1,1209
+Merton,2011,2,1112
+Merton,2011,3,1216
+Merton,2011,4,1071
+Merton,2011,5,1124
+Merton,2011,6,1167
+Merton,2011,7,1216
+Merton,2011,8,1060
+Merton,2011,9,983
+Merton,2011,10,1199
+Merton,2011,11,1155
+Merton,2011,12,1036
+Merton,2012,1,1037
+Merton,2012,2,1073
+Merton,2012,3,1185
+Merton,2012,4,1012
+Merton,2012,5,1151
+Merton,2012,6,1064
+Merton,2012,7,1078
+Merton,2012,8,999
+Merton,2012,9,1028
+Merton,2012,10,1076
+Merton,2012,11,1146
+Merton,2012,12,1007
+Merton,2013,1,1107
+Merton,2013,2,957
+Merton,2013,3,966
+Merton,2013,4,1028
+Merton,2013,5,985
+Merton,2013,6,956
+Merton,2013,7,1054
+Merton,2013,8,882
+Merton,2013,9,887
+Merton,2013,10,967
+Merton,2013,11,963
+Merton,2013,12,843
+Merton,2014,1,901
+Merton,2014,2,795
+Merton,2014,3,957
+Merton,2014,4,853
+Merton,2014,5,1026
+Merton,2014,6,998
+Merton,2014,7,927
+Merton,2014,8,911
+Merton,2014,9,1017
+Merton,2014,10,1050
+Merton,2014,11,1107
+Merton,2014,12,1054
+Merton,2015,1,1043
+Merton,2015,2,915
+Merton,2015,3,980
+Merton,2015,4,930
+Merton,2015,5,1104
+Merton,2015,6,1022
+Merton,2015,7,1118
+Merton,2015,8,1026
+Merton,2015,9,923
+Merton,2015,10,1076
+Merton,2015,11,1095
+Merton,2015,12,1041
+Merton,2016,1,1015
+Merton,2016,2,1021
+Merton,2016,3,1124
+Merton,2016,4,1037
+Merton,2016,5,1117
+Merton,2016,6,973
+Merton,2016,7,1140
+Merton,2016,8,1122
+Merton,2016,9,1052
+Merton,2016,10,1074
+Merton,2016,11,1087
+Merton,2016,12,993
+Newham,2008,1,2876
+Newham,2008,2,2510
+Newham,2008,3,2492
+Newham,2008,4,2290
+Newham,2008,5,2582
+Newham,2008,6,2507
+Newham,2008,7,2568
+Newham,2008,8,2400
+Newham,2008,9,2320
+Newham,2008,10,2539
+Newham,2008,11,2434
+Newham,2008,12,2234
+Newham,2009,1,2252
+Newham,2009,2,2096
+Newham,2009,3,2528
+Newham,2009,4,2329
+Newham,2009,5,2385
+Newham,2009,6,2511
+Newham,2009,7,2450
+Newham,2009,8,2421
+Newham,2009,9,2410
+Newham,2009,10,2538
+Newham,2009,11,2376
+Newham,2009,12,2314
+Newham,2010,1,2341
+Newham,2010,2,2474
+Newham,2010,3,2842
+Newham,2010,4,2552
+Newham,2010,5,2671
+Newham,2010,6,2662
+Newham,2010,7,2624
+Newham,2010,8,2532
+Newham,2010,9,2527
+Newham,2010,10,2695
+Newham,2010,11,2786
+Newham,2010,12,2022
+Newham,2011,1,2216
+Newham,2011,2,2161
+Newham,2011,3,2304
+Newham,2011,4,2335
+Newham,2011,5,2427
+Newham,2011,6,2384
+Newham,2011,7,2352
+Newham,2011,8,2321
+Newham,2011,9,2393
+Newham,2011,10,2542
+Newham,2011,11,2408
+Newham,2011,12,2135
+Newham,2012,1,2299
+Newham,2012,2,2249
+Newham,2012,3,2875
+Newham,2012,4,2339
+Newham,2012,5,2549
+Newham,2012,6,2462
+Newham,2012,7,2629
+Newham,2012,8,2653
+Newham,2012,9,2433
+Newham,2012,10,2617
+Newham,2012,11,2517
+Newham,2012,12,2445
+Newham,2013,1,2402
+Newham,2013,2,2091
+Newham,2013,3,2194
+Newham,2013,4,2280
+Newham,2013,5,2142
+Newham,2013,6,2241
+Newham,2013,7,2574
+Newham,2013,8,2330
+Newham,2013,9,2064
+Newham,2013,10,2528
+Newham,2013,11,2460
+Newham,2013,12,2271
+Newham,2014,1,2326
+Newham,2014,2,2304
+Newham,2014,3,2565
+Newham,2014,4,2250
+Newham,2014,5,2335
+Newham,2014,6,2270
+Newham,2014,7,2362
+Newham,2014,8,2172
+Newham,2014,9,2315
+Newham,2014,10,2344
+Newham,2014,11,2405
+Newham,2014,12,2357
+Newham,2015,1,2478
+Newham,2015,2,2269
+Newham,2015,3,2568
+Newham,2015,4,2165
+Newham,2015,5,2336
+Newham,2015,6,2475
+Newham,2015,7,2616
+Newham,2015,8,2359
+Newham,2015,9,2427
+Newham,2015,10,2617
+Newham,2015,11,2547
+Newham,2015,12,2360
+Newham,2016,1,2422
+Newham,2016,2,2308
+Newham,2016,3,2381
+Newham,2016,4,2347
+Newham,2016,5,2474
+Newham,2016,6,2455
+Newham,2016,7,2583
+Newham,2016,8,2495
+Newham,2016,9,2456
+Newham,2016,10,2771
+Newham,2016,11,2695
+Newham,2016,12,2703
+Redbridge,2008,1,1852
+Redbridge,2008,2,1739
+Redbridge,2008,3,1760
+Redbridge,2008,4,1795
+Redbridge,2008,5,1718
+Redbridge,2008,6,1740
+Redbridge,2008,7,1753
+Redbridge,2008,8,1515
+Redbridge,2008,9,1639
+Redbridge,2008,10,1903
+Redbridge,2008,11,1780
+Redbridge,2008,12,1679
+Redbridge,2009,1,1788
+Redbridge,2009,2,1549
+Redbridge,2009,3,1885
+Redbridge,2009,4,1649
+Redbridge,2009,5,1829
+Redbridge,2009,6,1780
+Redbridge,2009,7,1773
+Redbridge,2009,8,1551
+Redbridge,2009,9,1761
+Redbridge,2009,10,1775
+Redbridge,2009,11,1857
+Redbridge,2009,12,1640
+Redbridge,2010,1,1587
+Redbridge,2010,2,1557
+Redbridge,2010,3,1947
+Redbridge,2010,4,1582
+Redbridge,2010,5,1708
+Redbridge,2010,6,1709
+Redbridge,2010,7,1766
+Redbridge,2010,8,1646
+Redbridge,2010,9,1760
+Redbridge,2010,10,1889
+Redbridge,2010,11,1926
+Redbridge,2010,12,1575
+Redbridge,2011,1,1939
+Redbridge,2011,2,1783
+Redbridge,2011,3,1984
+Redbridge,2011,4,1697
+Redbridge,2011,5,1870
+Redbridge,2011,6,1749
+Redbridge,2011,7,1776
+Redbridge,2011,8,1755
+Redbridge,2011,9,1724
+Redbridge,2011,10,2026
+Redbridge,2011,11,2008
+Redbridge,2011,12,1683
+Redbridge,2012,1,1905
+Redbridge,2012,2,1716
+Redbridge,2012,3,1975
+Redbridge,2012,4,1654
+Redbridge,2012,5,1852
+Redbridge,2012,6,1690
+Redbridge,2012,7,1772
+Redbridge,2012,8,1763
+Redbridge,2012,9,1726
+Redbridge,2012,10,1745
+Redbridge,2012,11,1978
+Redbridge,2012,12,1648
+Redbridge,2013,1,1724
+Redbridge,2013,2,1682
+Redbridge,2013,3,1758
+Redbridge,2013,4,1607
+Redbridge,2013,5,1664
+Redbridge,2013,6,1546
+Redbridge,2013,7,1612
+Redbridge,2013,8,1477
+Redbridge,2013,9,1503
+Redbridge,2013,10,1763
+Redbridge,2013,11,1816
+Redbridge,2013,12,1641
+Redbridge,2014,1,1772
+Redbridge,2014,2,1440
+Redbridge,2014,3,1674
+Redbridge,2014,4,1487
+Redbridge,2014,5,1607
+Redbridge,2014,6,1677
+Redbridge,2014,7,1732
+Redbridge,2014,8,1568
+Redbridge,2014,9,1487
+Redbridge,2014,10,1741
+Redbridge,2014,11,1714
+Redbridge,2014,12,1691
+Redbridge,2015,1,1581
+Redbridge,2015,2,1469
+Redbridge,2015,3,1648
+Redbridge,2015,4,1473
+Redbridge,2015,5,1460
+Redbridge,2015,6,1702
+Redbridge,2015,7,1603
+Redbridge,2015,8,1430
+Redbridge,2015,9,1526
+Redbridge,2015,10,1644
+Redbridge,2015,11,1689
+Redbridge,2015,12,1672
+Redbridge,2016,1,1489
+Redbridge,2016,2,1586
+Redbridge,2016,3,1651
+Redbridge,2016,4,1630
+Redbridge,2016,5,1651
+Redbridge,2016,6,1602
+Redbridge,2016,7,1730
+Redbridge,2016,8,1705
+Redbridge,2016,9,1599
+Redbridge,2016,10,1684
+Redbridge,2016,11,1615
+Redbridge,2016,12,1560
+Richmond upon Thames,2008,1,956
+Richmond upon Thames,2008,2,972
+Richmond upon Thames,2008,3,897
+Richmond upon Thames,2008,4,877
+Richmond upon Thames,2008,5,896
+Richmond upon Thames,2008,6,892
+Richmond upon Thames,2008,7,909
+Richmond upon Thames,2008,8,907
+Richmond upon Thames,2008,9,946
+Richmond upon Thames,2008,10,910
+Richmond upon Thames,2008,11,978
+Richmond upon Thames,2008,12,966
+Richmond upon Thames,2009,1,870
+Richmond upon Thames,2009,2,876
+Richmond upon Thames,2009,3,973
+Richmond upon Thames,2009,4,908
+Richmond upon Thames,2009,5,1021
+Richmond upon Thames,2009,6,1025
+Richmond upon Thames,2009,7,959
+Richmond upon Thames,2009,8,723
+Richmond upon Thames,2009,9,922
+Richmond upon Thames,2009,10,847
+Richmond upon Thames,2009,11,766
+Richmond upon Thames,2009,12,728
+Richmond upon Thames,2010,1,765
+Richmond upon Thames,2010,2,849
+Richmond upon Thames,2010,3,900
+Richmond upon Thames,2010,4,844
+Richmond upon Thames,2010,5,1026
+Richmond upon Thames,2010,6,959
+Richmond upon Thames,2010,7,1004
+Richmond upon Thames,2010,8,854
+Richmond upon Thames,2010,9,941
+Richmond upon Thames,2010,10,897
+Richmond upon Thames,2010,11,823
+Richmond upon Thames,2010,12,739
+Richmond upon Thames,2011,1,855
+Richmond upon Thames,2011,2,774
+Richmond upon Thames,2011,3,947
+Richmond upon Thames,2011,4,952
+Richmond upon Thames,2011,5,968
+Richmond upon Thames,2011,6,939
+Richmond upon Thames,2011,7,903
+Richmond upon Thames,2011,8,938
+Richmond upon Thames,2011,9,902
+Richmond upon Thames,2011,10,938
+Richmond upon Thames,2011,11,893
+Richmond upon Thames,2011,12,887
+Richmond upon Thames,2012,1,889
+Richmond upon Thames,2012,2,812
+Richmond upon Thames,2012,3,998
+Richmond upon Thames,2012,4,905
+Richmond upon Thames,2012,5,1134
+Richmond upon Thames,2012,6,872
+Richmond upon Thames,2012,7,991
+Richmond upon Thames,2012,8,900
+Richmond upon Thames,2012,9,857
+Richmond upon Thames,2012,10,995
+Richmond upon Thames,2012,11,947
+Richmond upon Thames,2012,12,868
+Richmond upon Thames,2013,1,921
+Richmond upon Thames,2013,2,790
+Richmond upon Thames,2013,3,927
+Richmond upon Thames,2013,4,889
+Richmond upon Thames,2013,5,850
+Richmond upon Thames,2013,6,942
+Richmond upon Thames,2013,7,907
+Richmond upon Thames,2013,8,914
+Richmond upon Thames,2013,9,865
+Richmond upon Thames,2013,10,822
+Richmond upon Thames,2013,11,850
+Richmond upon Thames,2013,12,762
+Richmond upon Thames,2014,1,899
+Richmond upon Thames,2014,2,680
+Richmond upon Thames,2014,3,854
+Richmond upon Thames,2014,4,827
+Richmond upon Thames,2014,5,904
+Richmond upon Thames,2014,6,909
+Richmond upon Thames,2014,7,930
+Richmond upon Thames,2014,8,835
+Richmond upon Thames,2014,9,916
+Richmond upon Thames,2014,10,916
+Richmond upon Thames,2014,11,955
+Richmond upon Thames,2014,12,831
+Richmond upon Thames,2015,1,853
+Richmond upon Thames,2015,2,753
+Richmond upon Thames,2015,3,924
+Richmond upon Thames,2015,4,858
+Richmond upon Thames,2015,5,959
+Richmond upon Thames,2015,6,870
+Richmond upon Thames,2015,7,850
+Richmond upon Thames,2015,8,880
+Richmond upon Thames,2015,9,873
+Richmond upon Thames,2015,10,913
+Richmond upon Thames,2015,11,830
+Richmond upon Thames,2015,12,850
+Richmond upon Thames,2016,1,835
+Richmond upon Thames,2016,2,809
+Richmond upon Thames,2016,3,859
+Richmond upon Thames,2016,4,845
+Richmond upon Thames,2016,5,1061
+Richmond upon Thames,2016,6,967
+Richmond upon Thames,2016,7,1045
+Richmond upon Thames,2016,8,960
+Richmond upon Thames,2016,9,1009
+Richmond upon Thames,2016,10,918
+Richmond upon Thames,2016,11,906
+Richmond upon Thames,2016,12,860
+Southwark,2008,1,2990
+Southwark,2008,2,2875
+Southwark,2008,3,2703
+Southwark,2008,4,2713
+Southwark,2008,5,2867
+Southwark,2008,6,3116
+Southwark,2008,7,3005
+Southwark,2008,8,2957
+Southwark,2008,9,2634
+Southwark,2008,10,2790
+Southwark,2008,11,2611
+Southwark,2008,12,2209
+Southwark,2009,1,2461
+Southwark,2009,2,2313
+Southwark,2009,3,2620
+Southwark,2009,4,2482
+Southwark,2009,5,2698
+Southwark,2009,6,2744
+Southwark,2009,7,2680
+Southwark,2009,8,2704
+Southwark,2009,9,2541
+Southwark,2009,10,2711
+Southwark,2009,11,2445
+Southwark,2009,12,2224
+Southwark,2010,1,2321
+Southwark,2010,2,2392
+Southwark,2010,3,2894
+Southwark,2010,4,2635
+Southwark,2010,5,2725
+Southwark,2010,6,2789
+Southwark,2010,7,2931
+Southwark,2010,8,2830
+Southwark,2010,9,2567
+Southwark,2010,10,2671
+Southwark,2010,11,2497
+Southwark,2010,12,2068
+Southwark,2011,1,2495
+Southwark,2011,2,2207
+Southwark,2011,3,2432
+Southwark,2011,4,2465
+Southwark,2011,5,2658
+Southwark,2011,6,2550
+Southwark,2011,7,2523
+Southwark,2011,8,2499
+Southwark,2011,9,2542
+Southwark,2011,10,2955
+Southwark,2011,11,2747
+Southwark,2011,12,2650
+Southwark,2012,1,2558
+Southwark,2012,2,2465
+Southwark,2012,3,2714
+Southwark,2012,4,2234
+Southwark,2012,5,2731
+Southwark,2012,6,2695
+Southwark,2012,7,2719
+Southwark,2012,8,2619
+Southwark,2012,9,2349
+Southwark,2012,10,2445
+Southwark,2012,11,2579
+Southwark,2012,12,2629
+Southwark,2013,1,2746
+Southwark,2013,2,2414
+Southwark,2013,3,2622
+Southwark,2013,4,2504
+Southwark,2013,5,2447
+Southwark,2013,6,2617
+Southwark,2013,7,2848
+Southwark,2013,8,2586
+Southwark,2013,9,2555
+Southwark,2013,10,2659
+Southwark,2013,11,2717
+Southwark,2013,12,2413
+Southwark,2014,1,2260
+Southwark,2014,2,2188
+Southwark,2014,3,2416
+Southwark,2014,4,2208
+Southwark,2014,5,2314
+Southwark,2014,6,2400
+Southwark,2014,7,2550
+Southwark,2014,8,2375
+Southwark,2014,9,2580
+Southwark,2014,10,2705
+Southwark,2014,11,2611
+Southwark,2014,12,2305
+Southwark,2015,1,2465
+Southwark,2015,2,2235
+Southwark,2015,3,2424
+Southwark,2015,4,2435
+Southwark,2015,5,2772
+Southwark,2015,6,2613
+Southwark,2015,7,2592
+Southwark,2015,8,2531
+Southwark,2015,9,2366
+Southwark,2015,10,2550
+Southwark,2015,11,2734
+Southwark,2015,12,2543
+Southwark,2016,1,2480
+Southwark,2016,2,2429
+Southwark,2016,3,2476
+Southwark,2016,4,2572
+Southwark,2016,5,2915
+Southwark,2016,6,2681
+Southwark,2016,7,2705
+Southwark,2016,8,2746
+Southwark,2016,9,2792
+Southwark,2016,10,2709
+Southwark,2016,11,2528
+Southwark,2016,12,2603
+Sutton,2008,1,1133
+Sutton,2008,2,1021
+Sutton,2008,3,1056
+Sutton,2008,4,1039
+Sutton,2008,5,1151
+Sutton,2008,6,1017
+Sutton,2008,7,1036
+Sutton,2008,8,1012
+Sutton,2008,9,1153
+Sutton,2008,10,1172
+Sutton,2008,11,1068
+Sutton,2008,12,1085
+Sutton,2009,1,1088
+Sutton,2009,2,912
+Sutton,2009,3,1128
+Sutton,2009,4,1119
+Sutton,2009,5,1170
+Sutton,2009,6,1206
+Sutton,2009,7,1042
+Sutton,2009,8,951
+Sutton,2009,9,888
+Sutton,2009,10,926
+Sutton,2009,11,946
+Sutton,2009,12,864
+Sutton,2010,1,924
+Sutton,2010,2,959
+Sutton,2010,3,1153
+Sutton,2010,4,1028
+Sutton,2010,5,1027
+Sutton,2010,6,1119
+Sutton,2010,7,1016
+Sutton,2010,8,973
+Sutton,2010,9,969
+Sutton,2010,10,965
+Sutton,2010,11,999
+Sutton,2010,12,900
+Sutton,2011,1,848
+Sutton,2011,2,877
+Sutton,2011,3,1006
+Sutton,2011,4,985
+Sutton,2011,5,1016
+Sutton,2011,6,963
+Sutton,2011,7,1052
+Sutton,2011,8,905
+Sutton,2011,9,842
+Sutton,2011,10,863
+Sutton,2011,11,863
+Sutton,2011,12,848
+Sutton,2012,1,824
+Sutton,2012,2,880
+Sutton,2012,3,1009
+Sutton,2012,4,895
+Sutton,2012,5,943
+Sutton,2012,6,903
+Sutton,2012,7,936
+Sutton,2012,8,902
+Sutton,2012,9,813
+Sutton,2012,10,991
+Sutton,2012,11,928
+Sutton,2012,12,924
+Sutton,2013,1,863
+Sutton,2013,2,760
+Sutton,2013,3,824
+Sutton,2013,4,839
+Sutton,2013,5,789
+Sutton,2013,6,827
+Sutton,2013,7,877
+Sutton,2013,8,843
+Sutton,2013,9,837
+Sutton,2013,10,930
+Sutton,2013,11,867
+Sutton,2013,12,801
+Sutton,2014,1,831
+Sutton,2014,2,802
+Sutton,2014,3,890
+Sutton,2014,4,776
+Sutton,2014,5,792
+Sutton,2014,6,889
+Sutton,2014,7,955
+Sutton,2014,8,734
+Sutton,2014,9,834
+Sutton,2014,10,981
+Sutton,2014,11,1006
+Sutton,2014,12,953
+Sutton,2015,1,835
+Sutton,2015,2,918
+Sutton,2015,3,962
+Sutton,2015,4,913
+Sutton,2015,5,849
+Sutton,2015,6,1002
+Sutton,2015,7,812
+Sutton,2015,8,845
+Sutton,2015,9,816
+Sutton,2015,10,938
+Sutton,2015,11,832
+Sutton,2015,12,876
+Sutton,2016,1,895
+Sutton,2016,2,914
+Sutton,2016,3,942
+Sutton,2016,4,904
+Sutton,2016,5,932
+Sutton,2016,6,896
+Sutton,2016,7,831
+Sutton,2016,8,768
+Sutton,2016,9,898
+Sutton,2016,10,847
+Sutton,2016,11,960
+Sutton,2016,12,871
+Tower Hamlets,2008,1,2125
+Tower Hamlets,2008,2,2010
+Tower Hamlets,2008,3,2129
+Tower Hamlets,2008,4,2115
+Tower Hamlets,2008,5,2143
+Tower Hamlets,2008,6,1981
+Tower Hamlets,2008,7,2145
+Tower Hamlets,2008,8,1953
+Tower Hamlets,2008,9,1927
+Tower Hamlets,2008,10,1961
+Tower Hamlets,2008,11,1673
+Tower Hamlets,2008,12,1416
+Tower Hamlets,2009,1,1546
+Tower Hamlets,2009,2,1557
+Tower Hamlets,2009,3,1988
+Tower Hamlets,2009,4,1860
+Tower Hamlets,2009,5,1956
+Tower Hamlets,2009,6,1903
+Tower Hamlets,2009,7,2133
+Tower Hamlets,2009,8,1907
+Tower Hamlets,2009,9,1689
+Tower Hamlets,2009,10,1965
+Tower Hamlets,2009,11,1822
+Tower Hamlets,2009,12,1633
+Tower Hamlets,2010,1,1583
+Tower Hamlets,2010,2,1662
+Tower Hamlets,2010,3,1857
+Tower Hamlets,2010,4,1937
+Tower Hamlets,2010,5,1993
+Tower Hamlets,2010,6,1959
+Tower Hamlets,2010,7,2101
+Tower Hamlets,2010,8,2113
+Tower Hamlets,2010,9,2088
+Tower Hamlets,2010,10,2183
+Tower Hamlets,2010,11,1977
+Tower Hamlets,2010,12,1619
+Tower Hamlets,2011,1,1808
+Tower Hamlets,2011,2,1814
+Tower Hamlets,2011,3,2055
+Tower Hamlets,2011,4,1828
+Tower Hamlets,2011,5,2145
+Tower Hamlets,2011,6,2215
+Tower Hamlets,2011,7,2453
+Tower Hamlets,2011,8,2061
+Tower Hamlets,2011,9,2076
+Tower Hamlets,2011,10,2131
+Tower Hamlets,2011,11,2183
+Tower Hamlets,2011,12,1943
+Tower Hamlets,2012,1,2167
+Tower Hamlets,2012,2,2061
+Tower Hamlets,2012,3,2256
+Tower Hamlets,2012,4,2065
+Tower Hamlets,2012,5,2193
+Tower Hamlets,2012,6,2636
+Tower Hamlets,2012,7,2336
+Tower Hamlets,2012,8,2446
+Tower Hamlets,2012,9,2113
+Tower Hamlets,2012,10,2309
+Tower Hamlets,2012,11,2263
+Tower Hamlets,2012,12,1939
+Tower Hamlets,2013,1,2087
+Tower Hamlets,2013,2,1939
+Tower Hamlets,2013,3,2132
+Tower Hamlets,2013,4,2171
+Tower Hamlets,2013,5,2393
+Tower Hamlets,2013,6,2109
+Tower Hamlets,2013,7,2553
+Tower Hamlets,2013,8,2278
+Tower Hamlets,2013,9,2177
+Tower Hamlets,2013,10,2283
+Tower Hamlets,2013,11,2227
+Tower Hamlets,2013,12,1909
+Tower Hamlets,2014,1,1938
+Tower Hamlets,2014,2,1793
+Tower Hamlets,2014,3,2120
+Tower Hamlets,2014,4,1952
+Tower Hamlets,2014,5,2107
+Tower Hamlets,2014,6,2300
+Tower Hamlets,2014,7,2305
+Tower Hamlets,2014,8,2065
+Tower Hamlets,2014,9,2220
+Tower Hamlets,2014,10,2237
+Tower Hamlets,2014,11,2308
+Tower Hamlets,2014,12,2159
+Tower Hamlets,2015,1,2163
+Tower Hamlets,2015,2,2036
+Tower Hamlets,2015,3,2273
+Tower Hamlets,2015,4,2071
+Tower Hamlets,2015,5,2372
+Tower Hamlets,2015,6,2278
+Tower Hamlets,2015,7,2597
+Tower Hamlets,2015,8,2315
+Tower Hamlets,2015,9,2262
+Tower Hamlets,2015,10,2400
+Tower Hamlets,2015,11,2326
+Tower Hamlets,2015,12,2400
+Tower Hamlets,2016,1,2345
+Tower Hamlets,2016,2,2086
+Tower Hamlets,2016,3,2178
+Tower Hamlets,2016,4,2323
+Tower Hamlets,2016,5,2519
+Tower Hamlets,2016,6,2467
+Tower Hamlets,2016,7,2783
+Tower Hamlets,2016,8,2451
+Tower Hamlets,2016,9,2488
+Tower Hamlets,2016,10,2707
+Tower Hamlets,2016,11,2501
+Tower Hamlets,2016,12,2405
+Waltham Forest,2008,1,2047
+Waltham Forest,2008,2,1983
+Waltham Forest,2008,3,1981
+Waltham Forest,2008,4,1976
+Waltham Forest,2008,5,2135
+Waltham Forest,2008,6,2197
+Waltham Forest,2008,7,2141
+Waltham Forest,2008,8,1893
+Waltham Forest,2008,9,2032
+Waltham Forest,2008,10,2024
+Waltham Forest,2008,11,1883
+Waltham Forest,2008,12,1788
+Waltham Forest,2009,1,2071
+Waltham Forest,2009,2,1776
+Waltham Forest,2009,3,2191
+Waltham Forest,2009,4,2025
+Waltham Forest,2009,5,2063
+Waltham Forest,2009,6,2373
+Waltham Forest,2009,7,2166
+Waltham Forest,2009,8,2026
+Waltham Forest,2009,9,2039
+Waltham Forest,2009,10,2062
+Waltham Forest,2009,11,2050
+Waltham Forest,2009,12,1919
+Waltham Forest,2010,1,1846
+Waltham Forest,2010,2,1749
+Waltham Forest,2010,3,2132
+Waltham Forest,2010,4,2031
+Waltham Forest,2010,5,2265
+Waltham Forest,2010,6,2180
+Waltham Forest,2010,7,2294
+Waltham Forest,2010,8,2067
+Waltham Forest,2010,9,2253
+Waltham Forest,2010,10,2171
+Waltham Forest,2010,11,2055
+Waltham Forest,2010,12,1775
+Waltham Forest,2011,1,2046
+Waltham Forest,2011,2,1938
+Waltham Forest,2011,3,2030
+Waltham Forest,2011,4,2012
+Waltham Forest,2011,5,2155
+Waltham Forest,2011,6,2048
+Waltham Forest,2011,7,2076
+Waltham Forest,2011,8,2067
+Waltham Forest,2011,9,1706
+Waltham Forest,2011,10,1940
+Waltham Forest,2011,11,1938
+Waltham Forest,2011,12,1758
+Waltham Forest,2012,1,1657
+Waltham Forest,2012,2,1628
+Waltham Forest,2012,3,2012
+Waltham Forest,2012,4,1898
+Waltham Forest,2012,5,2043
+Waltham Forest,2012,6,2002
+Waltham Forest,2012,7,1953
+Waltham Forest,2012,8,1936
+Waltham Forest,2012,9,1860
+Waltham Forest,2012,10,1863
+Waltham Forest,2012,11,1945
+Waltham Forest,2012,12,1850
+Waltham Forest,2013,1,2030
+Waltham Forest,2013,2,1755
+Waltham Forest,2013,3,1765
+Waltham Forest,2013,4,1805
+Waltham Forest,2013,5,1877
+Waltham Forest,2013,6,1780
+Waltham Forest,2013,7,1811
+Waltham Forest,2013,8,1848
+Waltham Forest,2013,9,1839
+Waltham Forest,2013,10,1900
+Waltham Forest,2013,11,1784
+Waltham Forest,2013,12,1709
+Waltham Forest,2014,1,1726
+Waltham Forest,2014,2,1644
+Waltham Forest,2014,3,1726
+Waltham Forest,2014,4,1648
+Waltham Forest,2014,5,1712
+Waltham Forest,2014,6,1722
+Waltham Forest,2014,7,1768
+Waltham Forest,2014,8,1677
+Waltham Forest,2014,9,1649
+Waltham Forest,2014,10,1718
+Waltham Forest,2014,11,1707
+Waltham Forest,2014,12,1574
+Waltham Forest,2015,1,1666
+Waltham Forest,2015,2,1504
+Waltham Forest,2015,3,1799
+Waltham Forest,2015,4,1700
+Waltham Forest,2015,5,1639
+Waltham Forest,2015,6,1871
+Waltham Forest,2015,7,1887
+Waltham Forest,2015,8,1762
+Waltham Forest,2015,9,1600
+Waltham Forest,2015,10,1771
+Waltham Forest,2015,11,1912
+Waltham Forest,2015,12,1858
+Waltham Forest,2016,1,1703
+Waltham Forest,2016,2,1696
+Waltham Forest,2016,3,1760
+Waltham Forest,2016,4,1653
+Waltham Forest,2016,5,1780
+Waltham Forest,2016,6,1789
+Waltham Forest,2016,7,1831
+Waltham Forest,2016,8,1663
+Waltham Forest,2016,9,1641
+Waltham Forest,2016,10,1763
+Waltham Forest,2016,11,1719
+Waltham Forest,2016,12,1718
+Wandsworth,2008,1,2163
+Wandsworth,2008,2,2111
+Wandsworth,2008,3,2010
+Wandsworth,2008,4,1993
+Wandsworth,2008,5,1938
+Wandsworth,2008,6,1953
+Wandsworth,2008,7,2042
+Wandsworth,2008,8,1672
+Wandsworth,2008,9,1867
+Wandsworth,2008,10,1899
+Wandsworth,2008,11,1804
+Wandsworth,2008,12,1878
+Wandsworth,2009,1,1905
+Wandsworth,2009,2,1635
+Wandsworth,2009,3,2009
+Wandsworth,2009,4,1860
+Wandsworth,2009,5,2097
+Wandsworth,2009,6,2035
+Wandsworth,2009,7,2147
+Wandsworth,2009,8,2046
+Wandsworth,2009,9,1961
+Wandsworth,2009,10,1865
+Wandsworth,2009,11,1851
+Wandsworth,2009,12,1610
+Wandsworth,2010,1,1735
+Wandsworth,2010,2,1756
+Wandsworth,2010,3,1865
+Wandsworth,2010,4,1921
+Wandsworth,2010,5,1979
+Wandsworth,2010,6,2095
+Wandsworth,2010,7,2185
+Wandsworth,2010,8,1820
+Wandsworth,2010,9,2047
+Wandsworth,2010,10,2067
+Wandsworth,2010,11,1822
+Wandsworth,2010,12,1523
+Wandsworth,2011,1,1522
+Wandsworth,2011,2,1646
+Wandsworth,2011,3,1791
+Wandsworth,2011,4,1537
+Wandsworth,2011,5,1911
+Wandsworth,2011,6,1904
+Wandsworth,2011,7,1904
+Wandsworth,2011,8,1782
+Wandsworth,2011,9,1771
+Wandsworth,2011,10,1902
+Wandsworth,2011,11,1862
+Wandsworth,2011,12,1852
+Wandsworth,2012,1,1876
+Wandsworth,2012,2,1894
+Wandsworth,2012,3,2387
+Wandsworth,2012,4,1965
+Wandsworth,2012,5,2110
+Wandsworth,2012,6,2086
+Wandsworth,2012,7,2112
+Wandsworth,2012,8,1893
+Wandsworth,2012,9,1984
+Wandsworth,2012,10,2261
+Wandsworth,2012,11,2126
+Wandsworth,2012,12,1763
+Wandsworth,2013,1,1895
+Wandsworth,2013,2,1823
+Wandsworth,2013,3,1867
+Wandsworth,2013,4,1853
+Wandsworth,2013,5,1917
+Wandsworth,2013,6,1886
+Wandsworth,2013,7,1924
+Wandsworth,2013,8,1959
+Wandsworth,2013,9,1888
+Wandsworth,2013,10,1934
+Wandsworth,2013,11,1773
+Wandsworth,2013,12,1571
+Wandsworth,2014,1,1727
+Wandsworth,2014,2,1543
+Wandsworth,2014,3,1620
+Wandsworth,2014,4,1613
+Wandsworth,2014,5,1723
+Wandsworth,2014,6,1852
+Wandsworth,2014,7,1882
+Wandsworth,2014,8,1800
+Wandsworth,2014,9,1900
+Wandsworth,2014,10,1972
+Wandsworth,2014,11,1923
+Wandsworth,2014,12,1809
+Wandsworth,2015,1,1779
+Wandsworth,2015,2,1720
+Wandsworth,2015,3,1949
+Wandsworth,2015,4,1834
+Wandsworth,2015,5,1979
+Wandsworth,2015,6,1914
+Wandsworth,2015,7,1888
+Wandsworth,2015,8,1772
+Wandsworth,2015,9,1879
+Wandsworth,2015,10,1970
+Wandsworth,2015,11,1907
+Wandsworth,2015,12,1810
+Wandsworth,2016,1,1800
+Wandsworth,2016,2,1774
+Wandsworth,2016,3,1872
+Wandsworth,2016,4,1888
+Wandsworth,2016,5,2036
+Wandsworth,2016,6,1962
+Wandsworth,2016,7,2303
+Wandsworth,2016,8,2021
+Wandsworth,2016,9,2009
+Wandsworth,2016,10,2197
+Wandsworth,2016,11,1904
+Wandsworth,2016,12,1913
+Westminster,2008,1,3957
+Westminster,2008,2,3880
+Westminster,2008,3,3896
+Westminster,2008,4,3725
+Westminster,2008,5,3849
+Westminster,2008,6,3853
+Westminster,2008,7,4440
+Westminster,2008,8,4193
+Westminster,2008,9,3557
+Westminster,2008,10,4190
+Westminster,2008,11,4256
+Westminster,2008,12,4050
+Westminster,2009,1,4080
+Westminster,2009,2,3572
+Westminster,2009,3,4029
+Westminster,2009,4,3696
+Westminster,2009,5,4344
+Westminster,2009,6,4095
+Westminster,2009,7,4545
+Westminster,2009,8,3918
+Westminster,2009,9,3779
+Westminster,2009,10,4220
+Westminster,2009,11,4093
+Westminster,2009,12,4085
+Westminster,2010,1,3826
+Westminster,2010,2,3701
+Westminster,2010,3,4166
+Westminster,2010,4,4068
+Westminster,2010,5,4038
+Westminster,2010,6,3897
+Westminster,2010,7,4407
+Westminster,2010,8,4089
+Westminster,2010,9,3986
+Westminster,2010,10,4195
+Westminster,2010,11,3941
+Westminster,2010,12,3802
+Westminster,2011,1,4041
+Westminster,2011,2,3765
+Westminster,2011,3,4293
+Westminster,2011,4,4187
+Westminster,2011,5,4359
+Westminster,2011,6,4606
+Westminster,2011,7,4619
+Westminster,2011,8,3852
+Westminster,2011,9,4607
+Westminster,2011,10,5304
+Westminster,2011,11,5277
+Westminster,2011,12,5333
+Westminster,2012,1,5084
+Westminster,2012,2,4381
+Westminster,2012,3,5362
+Westminster,2012,4,4623
+Westminster,2012,5,5104
+Westminster,2012,6,4797
+Westminster,2012,7,5428
+Westminster,2012,8,5246
+Westminster,2012,9,4341
+Westminster,2012,10,4761
+Westminster,2012,11,4952
+Westminster,2012,12,5147
+Westminster,2013,1,4749
+Westminster,2013,2,4431
+Westminster,2013,3,4577
+Westminster,2013,4,4458
+Westminster,2013,5,4309
+Westminster,2013,6,4506
+Westminster,2013,7,4758
+Westminster,2013,8,4640
+Westminster,2013,9,4047
+Westminster,2013,10,4512
+Westminster,2013,11,4420
+Westminster,2013,12,4445
+Westminster,2014,1,4172
+Westminster,2014,2,3825
+Westminster,2014,3,4349
+Westminster,2014,4,3684
+Westminster,2014,5,3821
+Westminster,2014,6,3887
+Westminster,2014,7,3806
+Westminster,2014,8,3917
+Westminster,2014,9,3787
+Westminster,2014,10,4029
+Westminster,2014,11,3973
+Westminster,2014,12,4314
+Westminster,2015,1,3997
+Westminster,2015,2,3403
+Westminster,2015,3,3974
+Westminster,2015,4,3757
+Westminster,2015,5,4048
+Westminster,2015,6,3790
+Westminster,2015,7,3933
+Westminster,2015,8,3944
+Westminster,2015,9,3731
+Westminster,2015,10,4179
+Westminster,2015,11,4225
+Westminster,2015,12,4414
+Westminster,2016,1,4022
+Westminster,2016,2,3755
+Westminster,2016,3,3703
+Westminster,2016,4,3736
+Westminster,2016,5,3789
+Westminster,2016,6,3785
+Westminster,2016,7,4357
+Westminster,2016,8,4291
+Westminster,2016,9,3773
+Westminster,2016,10,4093
+Westminster,2016,11,4275
+Westminster,2016,12,4751

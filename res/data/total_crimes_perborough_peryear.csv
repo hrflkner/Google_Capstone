@@ -1,0 +1,298 @@
+borough,year,no_crimes
+Barking and Dagenham,2008,17656
+Barking and Dagenham,2009,17713
+Barking and Dagenham,2010,17130
+Barking and Dagenham,2011,16686
+Barking and Dagenham,2012,15990
+Barking and Dagenham,2013,15759
+Barking and Dagenham,2014,15426
+Barking and Dagenham,2015,16346
+Barking and Dagenham,2016,16741
+Barnet,2008,23944
+Barnet,2009,23449
+Barnet,2010,23416
+Barnet,2011,24007
+Barnet,2012,23573
+Barnet,2013,22510
+Barnet,2014,22572
+Barnet,2015,24036
+Barnet,2016,24684
+Bexley,2008,15305
+Bexley,2009,14445
+Bexley,2010,13166
+Bexley,2011,11325
+Bexley,2012,11669
+Bexley,2013,11552
+Bexley,2014,11844
+Bexley,2015,11990
+Bexley,2016,12840
+Brent,2008,23504
+Brent,2009,24748
+Brent,2010,25512
+Brent,2011,27669
+Brent,2012,26357
+Brent,2013,23759
+Brent,2014,24426
+Brent,2015,24883
+Brent,2016,26693
+Bromley,2008,24015
+Bromley,2009,21858
+Bromley,2010,19572
+Bromley,2011,19868
+Bromley,2012,19622
+Bromley,2013,18945
+Bromley,2014,19668
+Bromley,2015,20637
+Bromley,2016,20164
+Camden,2008,32010
+Camden,2009,31612
+Camden,2010,31804
+Camden,2011,33956
+Camden,2012,31472
+Camden,2013,28435
+Camden,2014,27198
+Camden,2015,29477
+Camden,2016,29183
+City of London,2008,0
+City of London,2009,0
+City of London,2010,0
+City of London,2011,69
+City of London,2012,157
+City of London,2013,110
+City of London,2014,115
+City of London,2015,151
+City of London,2016,178
+Croydon,2008,29516
+Croydon,2009,29784
+Croydon,2010,29373
+Croydon,2011,29830
+Croydon,2012,30189
+Croydon,2013,27444
+Croydon,2014,27357
+Croydon,2015,28089
+Croydon,2016,28712
+Ealing,2008,28947
+Ealing,2009,28617
+Ealing,2010,31360
+Ealing,2011,29537
+Ealing,2012,28832
+Ealing,2013,25917
+Ealing,2014,24978
+Ealing,2015,26247
+Ealing,2016,27127
+Enfield,2008,21980
+Enfield,2009,21147
+Enfield,2010,20808
+Enfield,2011,21041
+Enfield,2012,21069
+Enfield,2013,21574
+Enfield,2014,21700
+Enfield,2015,22076
+Enfield,2016,22485
+Greenwich,2008,22010
+Greenwich,2009,19851
+Greenwich,2010,18626
+Greenwich,2011,18552
+Greenwich,2012,20028
+Greenwich,2013,18948
+Greenwich,2014,19894
+Greenwich,2015,20929
+Greenwich,2016,22730
+Hackney,2008,22004
+Hackney,2009,20718
+Hackney,2010,20175
+Hackney,2011,21395
+Hackney,2012,27095
+Hackney,2013,25633
+Hackney,2014,24893
+Hackney,2015,26941
+Hackney,2016,28265
+Hammersmith and Fulham,2008,21114
+Hammersmith and Fulham,2009,21211
+Hammersmith and Fulham,2010,21941
+Hammersmith and Fulham,2011,22151
+Hammersmith and Fulham,2012,21030
+Hammersmith and Fulham,2013,18605
+Hammersmith and Fulham,2014,19185
+Hammersmith and Fulham,2015,19848
+Hammersmith and Fulham,2016,20174
+Haringey,2008,25724
+Haringey,2009,23704
+Haringey,2010,22156
+Haringey,2011,23179
+Haringey,2012,23231
+Haringey,2013,20705
+Haringey,2014,22773
+Haringey,2015,24626
+Haringey,2016,27174
+Harrow,2008,13774
+Harrow,2009,13948
+Harrow,2010,13945
+Harrow,2011,12801
+Harrow,2012,12803
+Harrow,2013,11914
+Harrow,2014,11909
+Harrow,2015,12601
+Harrow,2016,13153
+Havering,2008,15395
+Havering,2009,14538
+Havering,2010,14957
+Havering,2011,15496
+Havering,2012,15965
+Havering,2013,15089
+Havering,2014,14734
+Havering,2015,15870
+Havering,2016,16903
+Hillingdon,2008,24318
+Hillingdon,2009,24605
+Hillingdon,2010,23421
+Hillingdon,2011,24282
+Hillingdon,2012,22103
+Hillingdon,2013,20248
+Hillingdon,2014,23128
+Hillingdon,2015,23234
+Hillingdon,2016,24341
+Hounslow,2008,20204
+Hounslow,2009,19783
+Hounslow,2010,19665
+Hounslow,2011,21105
+Hounslow,2012,22724
+Hounslow,2013,19749
+Hounslow,2014,20005
+Hounslow,2015,21286
+Hounslow,2016,22251
+Islington,2008,26273
+Islington,2009,25485
+Islington,2010,24693
+Islington,2011,24980
+Islington,2012,26268
+Islington,2013,23784
+Islington,2014,24679
+Islington,2015,27032
+Islington,2016,27092
+Kensington and Chelsea,2008,20663
+Kensington and Chelsea,2009,18742
+Kensington and Chelsea,2010,19481
+Kensington and Chelsea,2011,19146
+Kensington and Chelsea,2012,19757
+Kensington and Chelsea,2013,17702
+Kensington and Chelsea,2014,17840
+Kensington and Chelsea,2015,19070
+Kensington and Chelsea,2016,19580
+Kingston upon Thames,2008,10661
+Kingston upon Thames,2009,10163
+Kingston upon Thames,2010,10171
+Kingston upon Thames,2011,10155
+Kingston upon Thames,2012,9956
+Kingston upon Thames,2013,9191
+Kingston upon Thames,2014,9288
+Kingston upon Thames,2015,9738
+Kingston upon Thames,2016,9983
+Lambeth,2008,31717
+Lambeth,2009,31225
+Lambeth,2010,31671
+Lambeth,2011,33224
+Lambeth,2012,33473
+Lambeth,2013,31868
+Lambeth,2014,31765
+Lambeth,2015,33164
+Lambeth,2016,34071
+Lewisham,2008,27054
+Lewisham,2009,25182
+Lewisham,2010,24532
+Lewisham,2011,24201
+Lewisham,2012,23652
+Lewisham,2013,22074
+Lewisham,2014,21101
+Lewisham,2015,23437
+Lewisham,2016,23904
+Merton,2008,13875
+Merton,2009,13561
+Merton,2010,13595
+Merton,2011,13548
+Merton,2012,12856
+Merton,2013,11595
+Merton,2014,11596
+Merton,2015,12273
+Merton,2016,12755
+Newham,2008,29752
+Newham,2009,28610
+Newham,2010,30728
+Newham,2011,27978
+Newham,2012,30067
+Newham,2013,27577
+Newham,2014,28005
+Newham,2015,29217
+Newham,2016,30090
+Redbridge,2008,20873
+Redbridge,2009,20837
+Redbridge,2010,20652
+Redbridge,2011,21994
+Redbridge,2012,21424
+Redbridge,2013,19793
+Redbridge,2014,19590
+Redbridge,2015,18897
+Redbridge,2016,19502
+Richmond upon Thames,2008,11106
+Richmond upon Thames,2009,10618
+Richmond upon Thames,2010,10601
+Richmond upon Thames,2011,10896
+Richmond upon Thames,2012,11168
+Richmond upon Thames,2013,10439
+Richmond upon Thames,2014,10456
+Richmond upon Thames,2015,10413
+Richmond upon Thames,2016,11074
+Southwark,2008,33470
+Southwark,2009,30623
+Southwark,2010,31320
+Southwark,2011,30723
+Southwark,2012,30737
+Southwark,2013,31128
+Southwark,2014,28912
+Southwark,2015,30260
+Southwark,2016,31636
+Sutton,2008,12943
+Sutton,2009,12240
+Sutton,2010,12032
+Sutton,2011,11068
+Sutton,2012,10948
+Sutton,2013,10057
+Sutton,2014,10443
+Sutton,2015,10598
+Sutton,2016,10658
+Tower Hamlets,2008,23578
+Tower Hamlets,2009,21959
+Tower Hamlets,2010,23072
+Tower Hamlets,2011,24712
+Tower Hamlets,2012,26784
+Tower Hamlets,2013,26258
+Tower Hamlets,2014,25504
+Tower Hamlets,2015,27493
+Tower Hamlets,2016,29253
+Waltham Forest,2008,24080
+Waltham Forest,2009,24761
+Waltham Forest,2010,24818
+Waltham Forest,2011,23714
+Waltham Forest,2012,22647
+Waltham Forest,2013,21903
+Waltham Forest,2014,20271
+Waltham Forest,2015,20969
+Waltham Forest,2016,20716
+Wandsworth,2008,23330
+Wandsworth,2009,23021
+Wandsworth,2010,22815
+Wandsworth,2011,21384
+Wandsworth,2012,24457
+Wandsworth,2013,22290
+Wandsworth,2014,21364
+Wandsworth,2015,22401
+Wandsworth,2016,23679
+Westminster,2008,47846
+Westminster,2009,48456
+Westminster,2010,48116
+Westminster,2011,54243
+Westminster,2012,59226
+Westminster,2013,53852
+Westminster,2014,47564
+Westminster,2015,47395
+Westminster,2016,48330
